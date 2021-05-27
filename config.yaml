@@ -29,6 +29,10 @@ params:
     defaultTheme: auto # dark, light
     disableThemeToggle: false
 
+    # my config (footer)
+    attribution: true
+    attributionAnimation: false
+
     ShowReadingTime: true
     ShowShareButtons: true
     ShowPostNavLinks: true
