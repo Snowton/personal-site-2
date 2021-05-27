@@ -30,7 +30,7 @@ params:
     disableThemeToggle: false
 
     # my config (footer)
-    attribution: true
+    attribution: false
     attributionAnimation: false
 
     ShowReadingTime: true
