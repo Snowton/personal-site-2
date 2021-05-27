@@ -141,8 +141,8 @@ menu:
           weight: 20
 
 taxonomies:
-    category: categories
     tag: tags
+    category: categories
     series: series
 
 outputs:

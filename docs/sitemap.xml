@@ -2,16 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://snowton.github.io/personal-site-2/blog/</loc>
+    <lastmod>2021-05-26T21:02:00-04:00</lastmod>
+  </url><url>
+    <loc>https://snowton.github.io/personal-site-2/blog/comment-post/</loc>
+    <lastmod>2021-05-26T21:02:00-04:00</lastmod>
+  </url><url>
+    <loc>https://snowton.github.io/personal-site-2/tags/hi/</loc>
+    <lastmod>2021-05-26T21:02:00-04:00</lastmod>
+  </url><url>
+    <loc>https://snowton.github.io/personal-site-2/</loc>
+    <lastmod>2021-05-26T21:02:00-04:00</lastmod>
+  </url><url>
+    <loc>https://snowton.github.io/personal-site-2/tags/</loc>
+    <lastmod>2021-05-26T21:02:00-04:00</lastmod>
+  </url><url>
     <loc>https://snowton.github.io/personal-site-2/search/</loc>
     <lastmod>2021-05-26T17:32:02-04:00</lastmod>
-  </url><url>
-    <loc>https://snowton.github.io/personal-site-2/blog/</loc>
-    <lastmod>2021-05-26T16:05:49-04:00</lastmod>
   </url><url>
     <loc>https://snowton.github.io/personal-site-2/blog/first-post/</loc>
     <lastmod>2021-05-26T16:05:49-04:00</lastmod>
   </url><url>
-    <loc>https://snowton.github.io/personal-site-2/</loc>
+    <loc>https://snowton.github.io/personal-site-2/tags/first-post/</loc>
     <lastmod>2021-05-26T16:05:49-04:00</lastmod>
   </url><url>
     <loc>https://snowton.github.io/personal-site-2/archives/</loc>
@@ -19,7 +31,5 @@
     <loc>https://snowton.github.io/personal-site-2/categories/</loc>
   </url><url>
     <loc>https://snowton.github.io/personal-site-2/series/</loc>
-  </url><url>
-    <loc>https://snowton.github.io/personal-site-2/tags/</loc>
   </url>
 </urlset>
