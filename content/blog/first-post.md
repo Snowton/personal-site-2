@@ -30,7 +30,8 @@ Actually, I'm getting a bit scared. I'm going to put the code here.
 
 *themes/PaperMod/layouts/partials/footer.html*
 ```html
-<div class="footer-hide-wrapper">
+{{- if .Site.Params.attribution }}
+    <div class="footer-hide-wrapper">
         <div {{- if .Site.Params.attributionAnimation }} class="footer-hide" {{- end }}>
             <span>
                 &nbsp;·&nbsp; Powered by
