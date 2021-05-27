@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://snowton.github.io/personal-site-2/blog/</loc>
+    <loc>https://snowton.github.io/personal-site-2/posts/</loc>
     <lastmod>2021-05-26T16:05:49-04:00</lastmod>
   </url><url>
     <loc>https://snowton.github.io/personal-site-2/categories/</loc>
@@ -11,7 +11,7 @@
     <loc>https://snowton.github.io/personal-site-2/tags/first-post/</loc>
     <lastmod>2021-05-26T16:05:49-04:00</lastmod>
   </url><url>
-    <loc>https://snowton.github.io/personal-site-2/blog/first-post/</loc>
+    <loc>https://snowton.github.io/personal-site-2/posts/first-post/</loc>
     <lastmod>2021-05-26T16:05:49-04:00</lastmod>
   </url><url>
     <loc>https://snowton.github.io/personal-site-2/categories/meta/</loc>
