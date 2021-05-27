@@ -9,4 +9,4 @@ math: true
 ### Math
 
 $$ hi $$
-\\( hi \\)
+$ \\$hiya $
