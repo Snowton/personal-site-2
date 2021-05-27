@@ -11,14 +11,14 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 26 May 2021 16:05:49 -0400</lastBuildDate><atom:link href="https://snowton.github.io/personal-site-2/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>First Post</title>
+      <title>Hello World!</title>
       <link>https://snowton.github.io/personal-site-2/blog/first-post/</link>
       <pubDate>Wed, 26 May 2021 16:05:49 -0400</pubDate>
       
       <guid>https://snowton.github.io/personal-site-2/blog/first-post/</guid>
-      <description>Hi My name is Shreya.
+      <description>Hi :) My name is Shreya.
 This is probably going to be my personal site. We&amp;rsquo;ll see.
-Goals  Make a portfolio-over-the-years. Update regularly with what I&amp;rsquo;ve been working on.  </description>
+Goals  Make a portfolio-over-the-years. Update regularly with what I&amp;rsquo;ve been working on.  Attribution This site is made using Hugo and its PaperMod theme! Legend goes that I looked at 3b1b&amp;rsquo;s Manim documentation and loved its design. Obviously I have to start clicking on things to find more about this piece of code, so I came across Pradyun&amp;rsquo;s website, and loved this design too.</description>
     </item>
     
   </channel>
