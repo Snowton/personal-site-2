@@ -19,14 +19,5 @@
       <description>Hi.</description>
     </item>
     
-    <item>
-      <title>First Post</title>
-      <link>https://snowton.github.io/personal-site-2/blog/first-post/</link>
-      <pubDate>Wed, 26 May 2021 16:05:49 -0400</pubDate>
-      
-      <guid>https://snowton.github.io/personal-site-2/blog/first-post/</guid>
-      <description>Math $$ hi $$ $ \$hiya $</description>
-    </item>
-    
   </channel>
 </rss>

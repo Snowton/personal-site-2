@@ -19,16 +19,31 @@
       <description>Hi.</description>
     </item>
     
-    
     <item>
       <title>First Post</title>
       <link>https://snowton.github.io/personal-site-2/blog/first-post/</link>
       <pubDate>Wed, 26 May 2021 16:05:49 -0400</pubDate>
       
       <guid>https://snowton.github.io/personal-site-2/blog/first-post/</guid>
-      <description>Math $$ hi $$ $ \$hiya $</description>
+      <description>Hi My name is Shreya.
+This is probably going to be my personal site. We&amp;rsquo;ll see.
+Goals  Make a portfolio-over-the-years. Update regularly with what I&amp;rsquo;ve been working on.  </description>
     </item>
     
+    
+    
+    <item>
+      <title>Timeline</title>
+      <link>https://snowton.github.io/personal-site-2/timeline/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://snowton.github.io/personal-site-2/timeline/</guid>
+      <description>Laying out stuff I&amp;rsquo;ve done.
+High School Junior Year Projects
+ Built eventtimer Built Coffee and Sleep Built the PACT website Made CJLH (our website is here)  Volunteering
+ Sundays SGG Manabadi (balaguru) NorthSouth Foundation  Awards
+ National Cyber Scholarship Competition  National Cyber Scholar, placed 142/3277   Strogatz Prize for Math Communication  Runner-up: Combinatorial Proofs&amp;hellip; and Basketball   MercerHacks  Best overall hack Best business hack   Made USACO Gold  Other commitments</description>
+    </item>
     
   </channel>
 </rss>

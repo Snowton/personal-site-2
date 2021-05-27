@@ -34,7 +34,7 @@ params:
     attributionAnimation: false
 
     ShowReadingTime: true
-    ShowShareButtons: true
+    ShowShareButtons: false
     ShowPostNavLinks: true
     ShowBreadCrumbs: true
     ShowCodeCopyButtons: true
@@ -63,8 +63,8 @@ params:
     # profile-mode
     profileMode:
         enabled: true # needs to be explicitly set
-        title: "Shreya Mogulothu"
-        subtitle: "Student"
+        title: "Hello."
+        subtitle: "I'm Shreya Mogulothu."
         # imageUrl: "<img location>"
         imageWidth: 120
         imageHeight: 120
@@ -119,14 +119,14 @@ params:
 
 menu:
     main:
-        - identifier: tags
-          name: tags
-          url: /tags/
-          weight: 30
-        - identifier: categories
-          name: categories
-          url: /categories/
-          weight: 31
+        # - identifier: tags
+        #   name: tags
+        #   url: /tags/
+        #   weight: 30
+        # - identifier: categories
+        #   name: categories
+        #   url: /categories/
+        #   weight: 31
         - identifier: blog
           name: blog
           url: /blog/
@@ -143,10 +143,14 @@ menu:
           name: archives
           url: /archives/
           weight: 20
+        - identifier: timeline
+          name: timeline
+          url: /timeline/
+          weight: 10
 
 taxonomies:
-    tag: tags
-    category: categories
+    tags: tags
+    categories: categories
     series: series
 
 outputs:

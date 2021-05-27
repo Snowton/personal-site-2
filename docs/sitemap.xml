@@ -17,8 +17,8 @@
     <loc>https://snowton.github.io/personal-site-2/tags/</loc>
     <lastmod>2021-05-26T21:02:00-04:00</lastmod>
   </url><url>
-    <loc>https://snowton.github.io/personal-site-2/search/</loc>
-    <lastmod>2021-05-26T17:32:02-04:00</lastmod>
+    <loc>https://snowton.github.io/personal-site-2/categories/</loc>
+    <lastmod>2021-05-26T16:05:49-04:00</lastmod>
   </url><url>
     <loc>https://snowton.github.io/personal-site-2/blog/first-post/</loc>
     <lastmod>2021-05-26T16:05:49-04:00</lastmod>
@@ -26,10 +26,15 @@
     <loc>https://snowton.github.io/personal-site-2/tags/first-post/</loc>
     <lastmod>2021-05-26T16:05:49-04:00</lastmod>
   </url><url>
+    <loc>https://snowton.github.io/personal-site-2/categories/meta/</loc>
+    <lastmod>2021-05-26T16:05:49-04:00</lastmod>
+  </url><url>
     <loc>https://snowton.github.io/personal-site-2/archives/</loc>
   </url><url>
-    <loc>https://snowton.github.io/personal-site-2/categories/</loc>
+    <loc>https://snowton.github.io/personal-site-2/search/</loc>
   </url><url>
     <loc>https://snowton.github.io/personal-site-2/series/</loc>
+  </url><url>
+    <loc>https://snowton.github.io/personal-site-2/timeline/</loc>
   </url>
 </urlset>
