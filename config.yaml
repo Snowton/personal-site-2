@@ -143,10 +143,14 @@ menu:
           name: archives
           url: /archives/
           weight: 20
-        - identifier: timeline
-          name: timeline
-          url: /timeline/
-          weight: 10
+        # - identifier: timeline
+        #   name: timeline
+        #   url: /timeline/
+        #   weight: 10
+        - identifier: about
+          name: about
+          url: /about/
+          weight: 30
 
 taxonomies:
     tags: tags
