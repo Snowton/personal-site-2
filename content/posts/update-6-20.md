@@ -1,7 +1,7 @@
 ---
 title: "Update 6/20"
 date: 2021-06-20T23:39:35-04:00
-draft: true
+draft: false
 ---
 
 ## A streak of 2
