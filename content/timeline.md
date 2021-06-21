@@ -22,7 +22,8 @@ Laying out stuff I've done.
 
 **Awards**
 - National Cyber Scholarship Competition
-    - National Cyber Scholar, placed 142/3277
+    - [National Cyber Scholar][https://api.badgr.io/public/assertions/ZKQuu7P8QuKhtKQhyiJXug?identity__email=shreya.mogulothu%40gmail.com], placed 142/3277
+    - Also [finalist](https://api.badgr.io/public/assertions/xyecElBDQ5GjIam79c6MrA?identity__email=shreya.mogulothu%40gmail.com)+[semifinalist](https://api.badgr.io/public/assertions/STIrrK2OSxyldhPtV0SR-A?identity__email=shreya.mogulothu%40gmail.com), and got the [silver award](https://api.badgr.io/public/assertions/YO-wgc2pRmyMrmr_JLxMzw?identity__email=shreya.mogulothu%40gmail.com) from the qualification platform
 - Strogatz Prize for Math Communication
     - Runner-up: *[Combinatorial Proofs... and Basketball](https://www.youtube.com/watch?v=KVpfwh28qYw)*
 - MercerHacks

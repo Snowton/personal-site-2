@@ -1,7 +1,7 @@
 ---
 title: "Update 6/2"
 date: 2021-06-02T21:26:24-04:00
-draft: true
+draft: false
 ---
 
 ## Yeah, it's my first update.
