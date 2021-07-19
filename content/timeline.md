@@ -9,27 +9,30 @@ Laying out stuff I've done.
 ### Junior Year
 
 **Projects**
-- Built [eventtimer](https://eventtimer.gatsbyjs.io/app)
 - Built [Coffee and Sleep](https://coffee-and-sleep.herokuapp.com)
 - Built the PACT [website](https://algorithmicthinking.org)
 - Made CJLH (our website is [here](https://coffee-and-sleep.herokuapp.com/cjlh/))
+- Built [eventtimer](https://eventtimer.gatsbyjs.io/app)
 
 **Volunteering**
 - Sundays
 - SGG
 - Manabadi (balaguru)
 - NorthSouth Foundation
+    - Pronouncer (Spelling, Vocabulary, Geography) at Regional Competition
 
 **Awards**
 - National Cyber Scholarship Competition
-    - [National Cyber Scholar][https://api.badgr.io/public/assertions/ZKQuu7P8QuKhtKQhyiJXug?identity__email=shreya.mogulothu%40gmail.com], placed 142/3277
+    - [National Cyber Scholar](https://api.badgr.io/public/assertions/ZKQuu7P8QuKhtKQhyiJXug?identity__email=shreya.mogulothu%40gmail.com), placed 142/3277
     - Also [finalist](https://api.badgr.io/public/assertions/xyecElBDQ5GjIam79c6MrA?identity__email=shreya.mogulothu%40gmail.com)+[semifinalist](https://api.badgr.io/public/assertions/STIrrK2OSxyldhPtV0SR-A?identity__email=shreya.mogulothu%40gmail.com), and got the [silver award](https://api.badgr.io/public/assertions/YO-wgc2pRmyMrmr_JLxMzw?identity__email=shreya.mogulothu%40gmail.com) from the qualification platform
 - Strogatz Prize for Math Communication
     - Runner-up: *[Combinatorial Proofs... and Basketball](https://www.youtube.com/watch?v=KVpfwh28qYw)*
-- MercerHacks
+- MercerHacks ([devpost link](https://devpost.com/software/college-search))
     - Best overall hack
     - Best business hack
 - Made USACO Gold
+- Made AIME (109.5 and 105)
+    - Accepted into Math Prize for Girls
 
 **Other commitments**
 - Audited CS671
