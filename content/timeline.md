@@ -33,6 +33,7 @@ Laying out stuff I've done.
 - Made USACO Gold
 - Made AIME (109.5 and 105)
     - Accepted into Math Prize for Girls
+- Inducted into NHS
 
 **Other commitments**
 - Audited CS671
