@@ -46,4 +46,4 @@ Only a month until school...
     - Salt
 - Drew this:
 
-![hmm girl](/personal-site-2/apple-touch-icon.png)
+![hmm girl](/personal-site-2/img/7-30.png)
