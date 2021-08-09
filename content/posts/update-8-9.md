@@ -30,3 +30,4 @@ Hi.
 - Found out the front wheel of my bike is flat (again)
 - Am sleeping a bit earlier
     - Hopefully this lasts!
+- Sabrina finally DMed me about the TSA email
