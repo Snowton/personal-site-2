@@ -6,6 +6,18 @@ Laying out stuff I've done.
 
 ## High School
 
+### Senior Year
+
+**Commitments**
+- Research with Prof. Sepehr Assadi
+- Paradox and Infinity
+- Guest lecturer at PACT
+
+**Volunteering**
+- Sundays
+- NorthSouth Foundation
+    - Pronouncer (Vocabulary, Geography) at National Competition
+
 ### Junior Year
 
 **Projects**
@@ -34,6 +46,8 @@ Laying out stuff I've done.
 - Made AIME (109.5 and 105)
     - Accepted into Math Prize for Girls
 - Inducted into NHS
+- 1600 on SAT
+- AP Scholar with Distinction
 
 **Other commitments**
 - Audited CS671
