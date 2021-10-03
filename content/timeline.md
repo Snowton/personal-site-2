@@ -12,11 +12,15 @@ Laying out stuff I've done.
 - Research with Prof. Sepehr Assadi
 - Paradox and Infinity
 - Guest lecturer at PACT
+- SANS Foundations
 
 **Volunteering**
 - Sundays
 - NorthSouth Foundation
     - Pronouncer (Vocabulary, Geography) at National Competition
+
+**Awards**
+- National Merit Scholarship Semifinalist
 
 ### Junior Year
 
@@ -51,6 +55,14 @@ Laying out stuff I've done.
 
 **Other commitments**
 - Audited CS671
+- Clubs
+    - Math
+    - CS
+        - Officer-in-Training
+        - Learnt about HSCTF infra
+    - GWC
+    - Around 3 meetings of debate
+    - Maybe 2 meetings of physics
 
 ### Sophomore Year
 **Awards**
