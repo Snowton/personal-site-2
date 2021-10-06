@@ -13,6 +13,8 @@ Laying out stuff I've done.
 - Paradox and Infinity
 - Guest lecturer at PACT
 - SANS Foundations
+- Scioly?
+- TA for Z
 
 **Volunteering**
 - Sundays
