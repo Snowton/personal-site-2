@@ -24,7 +24,7 @@ Very much has been happening very quickly, and I'm sure I'm going to forget some
     - Access until October 31
     - Signed up for Cyber Futures
 - Still use journal but not as extensively
-- Submitted Paradoc and Infinity submission(s!)
+- Submitted Paradox and Infinity submission(s!)
 - Submitted National Merit Scholarship semifinalist documents or whatever
     - Involves actually writing an essay
 - Got permit!

@@ -12,16 +12,20 @@ Laying out stuff I've done.
 - Research with Prof. Sepehr Assadi
 - Paradox and Infinity
 - Guest lecturer at PACT
+- SHP
 - SANS Foundations
 - Scioly?
 - TA for Z
 
 **Volunteering**
 - Sundays
+- AIME Prep
 - NorthSouth Foundation
     - Pronouncer (Vocabulary, Geography) at National Competition
 
 **Awards**
+- 4th place in [PClassic](https://pclassic.org)
+- MITx Philosophy Award
 - National Merit Scholarship Semifinalist
 
 ### Junior Year
@@ -57,6 +61,7 @@ Laying out stuff I've done.
 
 **Other commitments**
 - Audited CS671
+- SHP
 - Clubs
     - Math
     - CS
@@ -84,6 +89,7 @@ Laying out stuff I've done.
 - Second year at PACT
 - Graduated from Manabadi (5 grades)
 - Graduated from Sampada (4 grades)
+- SHP
 - Clubs
     - Math
     - CS
