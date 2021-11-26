@@ -39,6 +39,10 @@ Been a while. Let's just write stuff down now, shall we?
 - Visited Krause a lot of times, and I TA for Z
 - Watched all seven Harry Potter movies (again)
     - Shourya seemed to enjoy them
+    - Sreemayi is reading the Sorcerer's Stone!
+    - Pinni gave us HP bookmarks; I have a bunch of Voldemort bookmarks now
+    - I also read the entirety of the Half Blood Prince because Shourya got it from the library (without reading the first five books??) 
+    - About reading; I reread the first two Divergent books, which was interesting
 - Yesterday we also watched Aladdin when Babai/Pinni/Sreemayi when they came over for Thanksgiving dinner
     - Was quite interesting, actually, to *actually* sit at the table together for Thanksgiving
 - Got the chance to think about things I can't think about when I'm playing ketchup
