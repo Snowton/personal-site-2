@@ -1,6 +1,6 @@
 ---
 title: "Things to do when getting a new computer"
-date: 2021-11-26T12:16:51-05:00
+date: 2021-12-14T23:28:27-05:00
 draft: false
 ---
 Houskeeping list for myself.
