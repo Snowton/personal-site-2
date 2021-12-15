@@ -22,6 +22,11 @@ Let's get to it. I'm doing this mostly because I really should, it's been a coup
 - Updated a singular new post on Coffee and Sleep for newcomers
 - Attended a theory seminar thing and talked for like two minutes
     - Note to future mes: always check slide compilations ;-;
+- SHP was quite fun this semester. Lots of cool math
+    - Like group theory and surfaces like the real projective plane !!
+- Also learnt about fat cantor sets and other things on blogs
+- Got around to listening to 3b1b's podcast
+    - Honestly math is so cool
 
 ### Maybe not so productive things
 - It was my birthday !! And we went to an escape room and it was all VERY FUN and I 100% recommend this for my future self, would do again
