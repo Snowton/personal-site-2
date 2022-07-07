@@ -4,29 +4,56 @@ title: "Timeline"
 
 Laying out stuff I've done.
 
+## College
+
 ## High School
 
 ### Senior Year
 
 **Commitments**
+- Princeton classes
+    - MAT215 Single Variable Analysis (fall)
+    - COS487 Theory of Computation (fall)
+    - COS488 Analytic Combinatorics (spring)
+    - COS445 Economics and Computing (spring)
 - Research with Prof. Sepehr Assadi
 - Paradox and Infinity
 - Guest lecturer at PACT
 - SHP
 - SANS Foundations
-- Scioly?
+- CS Club VP
+- Science Olympiad (what a ride)
 - TA for Z
+- ASEs
 
 **Volunteering**
 - Sundays
 - AIME Prep
 - NorthSouth Foundation
     - Pronouncer (Vocabulary, Geography) at National Competition
+- A bit of Manabadi
 
 **Awards**
 - 4th place in [PClassic](https://pclassic.org)
 - MITx Philosophy Award
-- National Merit Scholarship Semifinalist
+- GFACT Certified
+- National Merit Scholarship ~Semifinalist~ Recipient (Bristol Myers)
+- NCWIT National Honorable Mention
+- National Cyber Scholar
+- Princeton ELKS Scholarship Recipient
+- Professional Engineers Society of Mercer County Scholarship Recipient
+- Made AIME
+    - 88.5 12A
+    - 90 12B
+- Graduated with NHS tassel
+- Accepted into colleges:
+    - MIT
+    - Rutgers
+    - Georga Tech
+    - UIUC
+    - Purdue
+    - Ohio State
+    - UNC Chapel Hill
 
 ### Junior Year
 
@@ -58,6 +85,7 @@ Laying out stuff I've done.
 - Inducted into NHS
 - 1600 on SAT
 - AP Scholar with Distinction
+- 4th place in NSF CS Bee
 
 **Other commitments**
 - Audited CS671
