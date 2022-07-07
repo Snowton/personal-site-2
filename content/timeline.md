@@ -42,7 +42,7 @@ Laying out stuff I've done.
 - National Cyber Scholar
 - Princeton ELKS Scholarship Recipient
 - Professional Engineers Society of Mercer County Scholarship Recipient
-- Made AIME
+- Made AIME (6)
     - 88.5 12A
     - 90 12B
 - Graduated with NHS tassel
