@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "e57c11fd810051eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f5531203961e5ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "27d555ed0dca7767",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "posts/outwards-facing-writing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c89d6e7d179890e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "eeea924f13494629",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6202f96ac620b1e0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f6e907b0c7572f85",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8169c7d8b337207d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f589a11ca7e8b721",
+    "type": "split",
+    "children": [
+      {
+        "id": "7972ce656f0a2a63",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b55d9833c9f78dbc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "posts/outwards-facing-writing.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cd7367849881f17c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "posts/outwards-facing-writing.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dd74f610758da3a9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3aa6eed36970266b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "posts/outwards-facing-writing.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "27d555ed0dca7767",
+  "lastOpenFiles": [
+    "posts/update-7-8.md",
+    "posts/update-6-20.md",
+    "posts/update-6-2.md",
+    "posts/outwards-facing-writing.md",
+    "posts/update-7-7-22.md",
+    "posts/update-12-14.md",
+    "posts/update-8-9.md",
+    "posts/update-7-30.md"
+  ]
+}
