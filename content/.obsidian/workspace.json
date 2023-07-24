@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "011d8653ab388224",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "posts/barbenheimer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/outwards-facing-writing.md",
+                "file": "posts/barbenheimer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/outwards-facing-writing.md",
+                "file": "posts/barbenheimer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/outwards-facing-writing.md"
+                "file": "posts/barbenheimer.md"
               }
             }
           }
@@ -146,12 +159,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "27d555ed0dca7767",
+  "active": "011d8653ab388224",
   "lastOpenFiles": [
+    "posts/outwards-facing-writing.md",
+    "posts/barbenheimer.md",
+    "posts/barbenhe.md",
     "posts/update-7-8.md",
     "posts/update-6-20.md",
     "posts/update-6-2.md",
-    "posts/outwards-facing-writing.md",
     "posts/update-7-7-22.md",
     "posts/update-12-14.md",
     "posts/update-8-9.md",
