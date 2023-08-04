@@ -102,7 +102,7 @@ params:
         hiddenInSingle: true # hide on single page
 
     editPost:
-        URL: "https://github.com/Snowton/personal-site-2/content"
+        URL: "https://smog.ink/content"
         Text: "Suggest Changes" # edit text
         appendFilePath: true # to append file path to Edit link
 
