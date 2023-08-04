@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about.md",
+                "file": "posts/structuring-thoughts.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "about.md",
+                "file": "posts/structuring-thoughts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "about.md",
+                "file": "posts/structuring-thoughts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "about.md"
+                "file": "posts/structuring-thoughts.md"
               }
             }
           }
@@ -156,6 +156,7 @@
   },
   "active": "e9198c28627b5a11",
   "lastOpenFiles": [
+    "about.md",
     "posts/_index.md",
     "posts/structuring-thoughts.md",
     "posts/first-post.md",

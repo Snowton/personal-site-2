@@ -9,7 +9,17 @@
       <link>https://smog.ink/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 24 Jul 2023 14:08:22 -0400</lastBuildDate><atom:link href="https://smog.ink/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 31 Jul 2023 22:40:28 -0400</lastBuildDate><atom:link href="https://smog.ink/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Structuring Thoughts</title>
+      <link>https://smog.ink/posts/structuring-thoughts/</link>
+      <pubDate>Mon, 31 Jul 2023 22:40:28 -0400</pubDate>
+      
+      <guid>https://smog.ink/posts/structuring-thoughts/</guid>
+      <description>I just realized that Hugo changes post urls to post titles by itself. Good job Hugo.
+what thoughts have i had in the past? This is a pretty hard problem. Probably LLMs make it better/easier, but I want to do it a couple of times myself before I hand over this very important task to an AI, so I know how exactly I want it to be done. Or what it is that I want in the first place.</description>
+    </item>
+    
     <item>
       <title>Barbenheimer</title>
       <link>https://smog.ink/posts/barbenheimer/</link>
