@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Blog on Shreya Mogulothu</title>
-    <link>https://snowton.github.io/personal-site-2/posts/</link>
+    <link>https://smog.ink/posts/</link>
     <description>Recent content in Blog on Shreya Mogulothu</description>
     <image>
-      <url>https://snowton.github.io/personal-site-2/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://snowton.github.io/personal-site-2/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://smog.ink/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://smog.ink/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 24 Jul 2023 14:08:22 -0400</lastBuildDate><atom:link href="https://snowton.github.io/personal-site-2/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 Jul 2023 14:08:22 -0400</lastBuildDate><atom:link href="https://smog.ink/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Barbenheimer</title>
-      <link>https://snowton.github.io/personal-site-2/posts/barbenheimer/</link>
+      <link>https://smog.ink/posts/barbenheimer/</link>
       <pubDate>Mon, 24 Jul 2023 14:08:22 -0400</pubDate>
       
-      <guid>https://snowton.github.io/personal-site-2/posts/barbenheimer/</guid>
+      <guid>https://smog.ink/posts/barbenheimer/</guid>
       <description>see if you can catch the barbie
 outside text so uh in retrospect this was in fact supposed to be a formal writing, but in the end it became much more informal and exposed less well-formed thoughts. I think though that it&amp;rsquo;s been long enough since my last post that I should put something out there, so here it is.
 ramble Oppenheimer.
@@ -24,119 +24,119 @@ So I always get stuck when it comes to the beginning of writing formally.</descr
     
     <item>
       <title>Outwards Facing Writing</title>
-      <link>https://snowton.github.io/personal-site-2/posts/outwards-facing-writing/</link>
+      <link>https://smog.ink/posts/outwards-facing-writing/</link>
       <pubDate>Thu, 20 Jul 2023 18:46:26 -0400</pubDate>
       
-      <guid>https://snowton.github.io/personal-site-2/posts/outwards-facing-writing/</guid>
+      <guid>https://smog.ink/posts/outwards-facing-writing/</guid>
       <description>here we are Again we observe about a year of break. But I&amp;rsquo;m pleasantly surprised to learn that is a shorter break than the last. Actually I lie, it is a longer break than the last. But&amp;hellip; okay yeah no it&amp;rsquo;s almost double the last break. But we&amp;rsquo;re here again, because coffee-and-sleep has not migrated yet, and the whole point of what I&amp;rsquo;m trying to do now is that I own what I write, so it won&amp;rsquo;t be on the anonymized wordpress blog either.</description>
     </item>
     
     <item>
       <title>Update 7/7/22</title>
-      <link>https://snowton.github.io/personal-site-2/posts/update-7-7-22/</link>
+      <link>https://smog.ink/posts/update-7-7-22/</link>
       <pubDate>Thu, 07 Jul 2022 10:20:20 -0400</pubDate>
       
-      <guid>https://snowton.github.io/personal-site-2/posts/update-7-7-22/</guid>
+      <guid>https://smog.ink/posts/update-7-7-22/</guid>
       <description>hides behind wall I haven&amp;rsquo;t posted on here since last year. I believe I&amp;rsquo;m now sort of at a breather again. ?
 productive things  I got into colleges, I&amp;rsquo;ve chosen a college, now I&amp;rsquo;m preparing for college. I graduated !!! I have my diploma and everything. Shocking Applied to summer programs and have been rejected; want to teach at PACT one last time. I should actually email Dr. Gandhi about that again.</description>
     </item>
     
     <item>
       <title>Things to do when getting a new computer</title>
-      <link>https://snowton.github.io/personal-site-2/posts/getting-new-comp/</link>
+      <link>https://smog.ink/posts/getting-new-comp/</link>
       <pubDate>Tue, 14 Dec 2021 23:28:27 -0500</pubDate>
       
-      <guid>https://snowton.github.io/personal-site-2/posts/getting-new-comp/</guid>
+      <guid>https://smog.ink/posts/getting-new-comp/</guid>
       <description>Houskeeping list for myself.
  Download chrome, vscode, tinytex Make sure to not set chrome as default Change dock Change terminal appearance (i.e. paste the following in .zshrc)  function parse_git_branch() { git branch 2&amp;gt; /dev/null | sed -n -e &#39;s/^\* \(.*\)/[\1]/p&#39; } setopt PROMPT_SUBST export PROMPT=&#39;%F{228}%n%f %F{197}%~%f %F{39}$(parse_git_branch)%f %F{normal}$%f &#39;  Store previous files in hard drive Install python3 Install home-brew Install jdk Configure vscode (extensions, code command) Pin tabs, etc Get relevant folders back from hard drive: downloads, latex, program files (personal site) Get that thing (oh, Hugo https://gohugo.</description>
     </item>
     
     <item>
       <title>Update 12/14</title>
-      <link>https://snowton.github.io/personal-site-2/posts/update-12-14/</link>
+      <link>https://smog.ink/posts/update-12-14/</link>
       <pubDate>Tue, 14 Dec 2021 23:04:18 -0500</pubDate>
       
-      <guid>https://snowton.github.io/personal-site-2/posts/update-12-14/</guid>
+      <guid>https://smog.ink/posts/update-12-14/</guid>
       <description>here we go again Let&amp;rsquo;s get to it. I&amp;rsquo;m doing this mostly because I really should, it&amp;rsquo;s been a couple of weeks. I&amp;rsquo;m not at a breather yet, although maybe a little.
 Productive things  Got advice on classes to take in Princeton for spring semester Applied to UCs, and apparently USC Got PACT T-Shirt and SANS hoodie!! Got to think about things Managed to submit all of my last psets :)) Did my two algebra lectures for AIME prep Srushti came to CS Club for a guest lecture!</description>
     </item>
     
     <item>
       <title>Update 11/26</title>
-      <link>https://snowton.github.io/personal-site-2/posts/update-11-26/</link>
+      <link>https://smog.ink/posts/update-11-26/</link>
       <pubDate>Fri, 26 Nov 2021 12:16:51 -0500</pubDate>
       
-      <guid>https://snowton.github.io/personal-site-2/posts/update-11-26/</guid>
+      <guid>https://smog.ink/posts/update-11-26/</guid>
       <description>hi&amp;hellip; Been a while. Let&amp;rsquo;s just write stuff down now, shall we?
 Productive things  Actually won the philosophy award! Applied to NC Chapel Hill, MIT, Rutgers, Georgia Tech, UIUC, and Ohio State  Lots of essays&amp;hellip; and self-reported coursework&amp;hellip; and recommendation requests&amp;hellip;   Applied for Ohio State Eminence scholarship Did a sh*t ton of problem sets Met up with Prof. Assadi again Committed to AIME Prep Randomly signed up for the USACO training thing that Amy showed me Finally ordered t-shirts!</description>
     </item>
     
     <item>
       <title>Update 10/2</title>
-      <link>https://snowton.github.io/personal-site-2/posts/update-10-2/</link>
+      <link>https://smog.ink/posts/update-10-2/</link>
       <pubDate>Wed, 22 Sep 2021 19:49:54 -0400</pubDate>
       
-      <guid>https://snowton.github.io/personal-site-2/posts/update-10-2/</guid>
+      <guid>https://smog.ink/posts/update-10-2/</guid>
       <description>hello there Very much has been happening very quickly, and I&amp;rsquo;m sure I&amp;rsquo;m going to forget something I did in these past two months that past-me would be angry I left out.
 Productive things  Chose Princeton courses  And yes, they started Managed to take COS487 :)  Actually made some friends there?   And yes, actually submitted all hw on time (so far, hopefully forever)   Met with Prof.</description>
     </item>
     
     <item>
       <title>Update 8/9</title>
-      <link>https://snowton.github.io/personal-site-2/posts/update-8-9/</link>
+      <link>https://smog.ink/posts/update-8-9/</link>
       <pubDate>Mon, 09 Aug 2021 10:34:43 -0400</pubDate>
       
-      <guid>https://snowton.github.io/personal-site-2/posts/update-8-9/</guid>
+      <guid>https://smog.ink/posts/update-8-9/</guid>
       <description>hi Hi.
 Productive things  Uploaded proof of vaccine to netID Wrote 6 essays  Not all of them are good, but brainstorming is happening!   Finished sketching result and Zelke lower bound Started on summer homework  Finished Never Let Me Go Started the first chapter for APUSH   Started SANS again Started yoga in the mornings Did Art of Debating again Started writing in journal extensively  Maybe not so productive things  Chaitanya Uncle arrived  Now more people play basketball in the evenings?</description>
     </item>
     
     <item>
       <title>Update 7/30</title>
-      <link>https://snowton.github.io/personal-site-2/posts/update-7-30/</link>
+      <link>https://smog.ink/posts/update-7-30/</link>
       <pubDate>Fri, 30 Jul 2021 21:42:57 -0400</pubDate>
       
-      <guid>https://snowton.github.io/personal-site-2/posts/update-7-30/</guid>
+      <guid>https://smog.ink/posts/update-7-30/</guid>
       <description>Hi again Only a month until school&amp;hellip;
 Productive things  Did the rest of the lecture  Over two days   Talent show!  Recorded Pachtaoge with Disha Was a massive procrastination fest But very fun! 100% worth it Figured out notes for the first time in a while   Went to most PACT lectures for Group II  Went to everything after first lecture except for last Friday evening(Vihan)   Freewrote a bit  Nothing very important, but it helped to just write    Maybe not so productive things  Went to four different places five different times over three days and spent at least 2 hours at each place  Puja (very long!</description>
     </item>
     
     <item>
       <title>Update 7/19</title>
-      <link>https://snowton.github.io/personal-site-2/posts/update-7-19/</link>
+      <link>https://smog.ink/posts/update-7-19/</link>
       <pubDate>Mon, 19 Jul 2021 10:23:51 -0400</pubDate>
       
-      <guid>https://snowton.github.io/personal-site-2/posts/update-7-19/</guid>
+      <guid>https://smog.ink/posts/update-7-19/</guid>
       <description>I&amp;rsquo;m a bit late this time Oh, well.
 Productive things  Did a lecture on Tuesday :D  Only got through half the material ;-; But it was very fun   Started on college essay brainstorming!  Began by taking walks (Disha&amp;rsquo;s advice)   Got my first 100% in Paradox and Infinity Accepted into MPFG :D  Hotels were booked super fast   NC Scholarship sent an email out about prizes Finally got back to Laura and Dave  They didn&amp;rsquo;t reply back yet   Filled out Option II form  For a CS course, better luck    Maybe not so productive things I can&amp;rsquo;t believe that I didn&amp;rsquo;t mention the TSA application last time.</description>
     </item>
     
     <item>
       <title>Update 7/8</title>
-      <link>https://snowton.github.io/personal-site-2/posts/update-7-8/</link>
+      <link>https://smog.ink/posts/update-7-8/</link>
       <pubDate>Thu, 08 Jul 2021 00:25:43 -0400</pubDate>
       
-      <guid>https://snowton.github.io/personal-site-2/posts/update-7-8/</guid>
+      <guid>https://smog.ink/posts/update-7-8/</guid>
       <description>I&amp;rsquo;m back again Good!
 Productive things  Finished reading AD21 and revising writeup, starting on first research question Started attending Foundations Academy, which is actually pretty hype Date is set for PACT lecture College list is pretty much finalized Have been pretty consistent with Paradox and Infinity  Not so much with the other course   Finished sending recommenders the forms  Maybe not so productive things  Spent basically the entire weekend with Varun Mamayya and Siri Atta  Watched movies Played cards Played video games (Trials Frontier, Shark-eating game, Celeste (!</description>
     </item>
     
     <item>
       <title>Update 6/27</title>
-      <link>https://snowton.github.io/personal-site-2/posts/update-6-27/</link>
+      <link>https://smog.ink/posts/update-6-27/</link>
       <pubDate>Sun, 27 Jun 2021 23:07:55 -0400</pubDate>
       
-      <guid>https://snowton.github.io/personal-site-2/posts/update-6-27/</guid>
+      <guid>https://smog.ink/posts/update-6-27/</guid>
       <description>I&amp;rsquo;m getting the hang of this Let&amp;rsquo;s hope I don&amp;rsquo;t jinx it.
 Productive things  Met with advisor, finished a writeup on results from RSW18  Still need to complete reading AD21   Went to Strogatz award ceremony Tried sticking to schedule but failed because it takes way too long to read papers Wrote emails to recommenders Started Paradox and Infinity Started some other philosophy course  Maybe not so productive things  Went to Babai/Pinni&amp;rsquo;s Went to Jhopri&amp;rsquo;s with Amy after the ceremony  Then went to the park with Anni Then ate boba ice cream, which was SO GOOD   Watched a whole ton of Big Shot Watched Ant Man and the Wasp  </description>
     </item>
     
     <item>
       <title>Update 6/20</title>
-      <link>https://snowton.github.io/personal-site-2/posts/update-6-20/</link>
+      <link>https://smog.ink/posts/update-6-20/</link>
       <pubDate>Sun, 20 Jun 2021 23:39:35 -0400</pubDate>
       
-      <guid>https://snowton.github.io/personal-site-2/posts/update-6-20/</guid>
+      <guid>https://smog.ink/posts/update-6-20/</guid>
       <description>A streak of 2 The first time I updated, it was 6/2, and now it&amp;rsquo;s 6/20&amp;hellip;
 APs are over, HSCTF is over, Phi Day is over. Junior year is over. Summer has started. Things are boutta change.
 Productive things:  Finish New Horizons  Can&amp;rsquo;t wait to review the material B)   Finish all APs  They went okay, I guess   HSCTF  grading, message-board, nrc, zkp Did some infra, but there&amp;rsquo;s a whole lot I&amp;rsquo;ve gotta know for next time   CS Club VP 2021!</description>
@@ -144,20 +144,20 @@ Productive things:  Finish New Horizons  Can&amp;rsquo;t wait to review the mate
     
     <item>
       <title>Update 6/2</title>
-      <link>https://snowton.github.io/personal-site-2/posts/update-6-2/</link>
+      <link>https://smog.ink/posts/update-6-2/</link>
       <pubDate>Wed, 02 Jun 2021 21:26:24 -0400</pubDate>
       
-      <guid>https://snowton.github.io/personal-site-2/posts/update-6-2/</guid>
+      <guid>https://smog.ink/posts/update-6-2/</guid>
       <description>Yeah, it&amp;rsquo;s my first update. Things I&amp;rsquo;ve done in the past week-ish:
 Productive things:  Start the end of physics C prep. Start attending New Horizons. (It&amp;rsquo;s more than halfway over ;-;.)  As a result, get pulled into way too many cool CS topics. This time, there is an actual doc with links.   Start the Sans Foundations course. Clean. up. my. room.  Maybe not so productive things:  Actually meet people this weekend!</description>
     </item>
     
     <item>
       <title>Hello World!</title>
-      <link>https://snowton.github.io/personal-site-2/posts/first-post/</link>
+      <link>https://smog.ink/posts/first-post/</link>
       <pubDate>Wed, 26 May 2021 16:05:49 -0400</pubDate>
       
-      <guid>https://snowton.github.io/personal-site-2/posts/first-post/</guid>
+      <guid>https://smog.ink/posts/first-post/</guid>
       <description>Hi :) My name is Shreya.
 This is probably going to be my personal site. We&amp;rsquo;ll see.
 Goals  Make a portfolio-over-the-years. Update regularly with what I&amp;rsquo;ve been working on.  Attribution This site is made using Hugo and its PaperMod theme! Legend goes that I looked at 3b1b&amp;rsquo;s Manim documentation and loved its design. Obviously I have to start clicking on things to find more about this piece of code, so I came across Pradyun&amp;rsquo;s website, and loved this design too.</description>
