@@ -18,8 +18,31 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d64425954e33b3c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "posts/so-you-want-to-make-a-website.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ab7b3fa118b4a708",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.13"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/structuring-thoughts.md",
+                "file": "posts/so-you-want-to-make-a-website.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/structuring-thoughts.md",
+                "file": "posts/so-you-want-to-make-a-website.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +156,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/structuring-thoughts.md"
+                "file": "posts/so-you-want-to-make-a-website.md"
+              }
+            }
+          },
+          {
+            "id": "c9707e7542d77d2a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -154,8 +187,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e9198c28627b5a11",
+  "active": "d64425954e33b3c4",
   "lastOpenFiles": [
+    "posts/barbenheimer.md",
+    "posts/so-you-want-to-make-a-website.md",
+    "posts/outwards-facing-writing.md",
     "about.md",
     "posts/_index.md",
     "posts/structuring-thoughts.md",
@@ -165,8 +201,6 @@
     "posts/update-6-27.md",
     "posts/update-6-20.md",
     "posts/update-6-2.md",
-    "posts/barbenheimer.md",
-    "posts/outwards-facing-writing.md",
     "posts/Untitled.md",
     "2023-07-25.md",
     "posts/barbenhe.md",
