@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/so-you-want-to-make-a-website.md",
+                "file": "posts/pitch-detection.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/so-you-want-to-make-a-website.md",
+                "file": "posts/pitch-detection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/so-you-want-to-make-a-website.md",
+                "file": "posts/pitch-detection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/so-you-want-to-make-a-website.md"
+                "file": "posts/pitch-detection.md"
               }
             }
           },
@@ -189,8 +189,9 @@
   },
   "active": "d64425954e33b3c4",
   "lastOpenFiles": [
-    "posts/barbenheimer.md",
     "posts/so-you-want-to-make-a-website.md",
+    "posts/pitch-detection.md",
+    "posts/barbenheimer.md",
     "posts/outwards-facing-writing.md",
     "about.md",
     "posts/_index.md",
