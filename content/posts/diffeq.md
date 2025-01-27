@@ -56,7 +56,7 @@ no worries, differential equations are not all solvable! there are a couple of m
 	1. first-order ODE $y' = f(x,y)$
 		1. direction field: at various $(x,y)$ draw $y'$. easy to do by focusing on *isoclines*, curves where $f(x,y)$ is a constant, can draw the same slope $c$ along the entire curve
 	2. 2d homogenous system $\mathbf{x'} = A\mathbf{x}$
-		1. 9 different types of systems depending on trace and determinant of $A$
+		1. 9 different types of systems depending on trace and determinant of $A$; see [this mathlet](https://mathlets.org/mathlets/linear-phase-portraits-cursor-entry/) for intuition
 			1. node (real eigenvalues of same sign); can be stable or unstable
 			2. saddle (real eigenvalues of different sign); always unstable
 			3. spiral (complex eigenvalues with nonzero real part); can be stable or unstable
