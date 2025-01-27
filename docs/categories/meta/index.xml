@@ -1,25 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>meta on Shreya Mogulothu</title>
+    <title>Meta on Shreya Mogulothu</title>
     <link>https://smog.ink/categories/meta/</link>
-    <description>Recent content in meta on Shreya Mogulothu</description>
+    <description>Recent content in Meta on Shreya Mogulothu</description>
     <image>
+      <title>Shreya Mogulothu</title>
       <url>https://smog.ink/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://smog.ink/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 26 May 2021 16:05:49 -0400</lastBuildDate><atom:link href="https://smog.ink/categories/meta/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- 0.141.0</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 26 May 2021 16:05:49 -0400</lastBuildDate>
+    <atom:link href="https://smog.ink/categories/meta/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World!</title>
       <link>https://smog.ink/posts/first-post/</link>
       <pubDate>Wed, 26 May 2021 16:05:49 -0400</pubDate>
-      
       <guid>https://smog.ink/posts/first-post/</guid>
-      <description>Hi :) My name is Shreya.
-This is probably going to be my personal site. We&amp;rsquo;ll see.
-Goals  Make a portfolio-over-the-years. Update regularly with what I&amp;rsquo;ve been working on.  Attribution This site is made using Hugo and its PaperMod theme! Legend goes that I looked at 3b1b&amp;rsquo;s Manim documentation and loved its design. Obviously I have to start clicking on things to find more about this piece of code, so I came across Pradyun&amp;rsquo;s website, and loved this design too.</description>
+      <description>&lt;h2 id=&#34;hi-&#34;&gt;Hi :)&lt;/h2&gt;
+&lt;p&gt;My name is Shreya.&lt;/p&gt;
+&lt;p&gt;This is probably going to be my personal site. We&amp;rsquo;ll see.&lt;/p&gt;
+&lt;h2 id=&#34;goals&#34;&gt;Goals&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Make a portfolio-over-the-years.&lt;/li&gt;
+&lt;li&gt;Update regularly with what I&amp;rsquo;ve been working on.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;attribution&#34;&gt;Attribution&lt;/h2&gt;
+&lt;p&gt;This site is made using Hugo and its PaperMod theme! Legend goes that I looked at &lt;a href=&#34;https://3b1b.github.io/manim/&#34;&gt;3b1b&amp;rsquo;s Manim documentation&lt;/a&gt; and loved its design. Obviously I have to start clicking on things to find more about this piece of code, so I came across &lt;a href=&#34;https://pradyunsg.me/&#34;&gt;Pradyun&amp;rsquo;s&lt;/a&gt; website, and loved &lt;em&gt;this&lt;/em&gt; design too. At this point I was kind of mind blown that there were really themes I thought were sleek and actually usable, so I zoomed over to Hugo, and a day later, here we are.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

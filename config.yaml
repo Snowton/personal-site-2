@@ -1,6 +1,6 @@
 baseURL: "https://smog.ink"
 title: Shreya Mogulothu
-paginate: 5
+pagination.pagerSize: 5
 theme: PaperMod
 publishdir: docs
 disqusShortname: "personal-site-shreya-2"

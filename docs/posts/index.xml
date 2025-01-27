@@ -5,183 +5,713 @@
     <link>https://smog.ink/posts/</link>
     <description>Recent content in Blog on Shreya Mogulothu</description>
     <image>
+      <title>Shreya Mogulothu</title>
       <url>https://smog.ink/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://smog.ink/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 05 Dec 2023 17:58:32 -0500</lastBuildDate><atom:link href="https://smog.ink/posts/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- 0.141.0</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 27 Jan 2025 14:39:33 -0500</lastBuildDate>
+    <atom:link href="https://smog.ink/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Diffeq</title>
+      <link>https://smog.ink/posts/diffeq/</link>
+      <pubDate>Mon, 27 Jan 2025 14:39:33 -0500</pubDate>
+      <guid>https://smog.ink/posts/diffeq/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m ASEing diffeq this IAP. The test is tomorrow, I&amp;rsquo;m finishing up the final sections of the homework packet. I don&amp;rsquo;t have too much time before 8.20 lecture today, so I&amp;rsquo;ll instead do a little review:&lt;/p&gt;
+&lt;h2 id=&#34;how-fast-are-you-going&#34;&gt;how fast are you going?&lt;/h2&gt;
+&lt;p&gt;basically with diffeq we&amp;rsquo;re trying to solve equations that relate how fast you&amp;rsquo;re going (and acceleration, and higher orders) with the function itself. most of the diffeqs we are able to solve are of the form
+$$ \sum a_n(x) y^{(n)} = f(x) $$
+which is linear in y, so we call it a &lt;em&gt;linear differential equation&lt;/em&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Observation</title>
+      <link>https://smog.ink/posts/observation/</link>
+      <pubDate>Sat, 18 Jan 2025 21:09:01 -0500</pubDate>
+      <guid>https://smog.ink/posts/observation/</guid>
+      <description>&lt;p&gt;some people notice things and say it like poetry. i want to be some people.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Pitch Detection</title>
       <link>https://smog.ink/posts/pitch-detection/</link>
       <pubDate>Tue, 05 Dec 2023 17:58:32 -0500</pubDate>
-      
       <guid>https://smog.ink/posts/pitch-detection/</guid>
-      <description>so you want to pitch detect. I&amp;rsquo;m really happy you&amp;rsquo;re into the arts and trust tech enough to look for a software solution, but unless you want to just detect the pitch of a melody (one note at any moment) this is pretty hard to do in the general case.
-Background: my brother was complaining about the amount of time it took to write sheet music in notating software for his compositions, and my initial reaction was &amp;ldquo;that&amp;rsquo;s part of the deal&amp;rdquo;, the idea being that if you&amp;rsquo;re making a composition, you should at least spend the amount of time with it that you&amp;rsquo;d take to notate it, to give it the kind of care and thought that will make it sound deliberate.</description>
+      <description>&lt;h1 id=&#34;so-you-want-to-pitch-detect&#34;&gt;so you want to pitch detect.&lt;/h1&gt;
+&lt;p&gt;I&amp;rsquo;m really happy you&amp;rsquo;re into the arts and trust tech enough to look for a software solution, but unless you want to just detect the pitch of a melody (one note at any moment) this is pretty hard to do in the general case.&lt;/p&gt;
+&lt;p&gt;Background: my brother was complaining about the amount of time it took to write sheet music in notating software for his compositions, and my initial reaction was &amp;ldquo;that&amp;rsquo;s part of the deal&amp;rdquo;, the idea being that if you&amp;rsquo;re making a composition, you should at least spend the amount of time with it that you&amp;rsquo;d take to notate it, to give it the kind of care and thought that will make it sound deliberate. My brother usually just comes up with things on the fly after many repetitions of experimenting on the keyboard and will record them and use up all of our iCloud storage, which is very exciting but not great for our picture taking capacity.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Structuring Thoughts</title>
       <link>https://smog.ink/posts/structuring-thoughts/</link>
       <pubDate>Mon, 31 Jul 2023 22:40:28 -0400</pubDate>
-      
       <guid>https://smog.ink/posts/structuring-thoughts/</guid>
-      <description>I just realized that Hugo changes post urls to post titles by itself. Good job Hugo.
-what thoughts have i had in the past? This is a pretty hard problem. Probably LLMs make it better/easier, but I want to do it a couple of times myself before I hand over this very important task to an AI, so I know how exactly I want it to be done. Or what it is that I want in the first place.</description>
+      <description>&lt;p&gt;I just realized that Hugo changes post urls to post titles by itself. Good job Hugo.&lt;/p&gt;
+&lt;h2 id=&#34;what-thoughts-have-i-had-in-the-past&#34;&gt;what thoughts have i had in the past?&lt;/h2&gt;
+&lt;p&gt;This is a pretty hard problem. Probably LLMs make it better/easier, but I want to do it a couple of times myself before I hand over this very important task to an AI, so I know how exactly I want it to be done. Or what it is that I want in the first place.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Barbenheimer</title>
       <link>https://smog.ink/posts/barbenheimer/</link>
       <pubDate>Mon, 24 Jul 2023 14:08:22 -0400</pubDate>
-      
       <guid>https://smog.ink/posts/barbenheimer/</guid>
-      <description>see if you can catch the barbie
-outside text so uh in retrospect this was in fact supposed to be a formal writing, but in the end it became much more informal and exposed less well-formed thoughts. I think though that it&amp;rsquo;s been long enough since my last post that I should put something out there, so here it is.
-ramble Oppenheimer.
-So I always get stuck when it comes to the beginning of writing formally.</description>
+      <description>&lt;p&gt;see if you can catch the barbie&lt;/p&gt;
+&lt;h2 id=&#34;outside-text&#34;&gt;outside text&lt;/h2&gt;
+&lt;p&gt;so uh in retrospect this was in fact supposed to be a formal writing, but in the end it became much more informal and exposed less well-formed thoughts. I think though that it&amp;rsquo;s been long enough since my last post that I should put something out there, so here it is.&lt;/p&gt;
+&lt;h1 id=&#34;ramble&#34;&gt;ramble&lt;/h1&gt;
+&lt;p&gt;Oppenheimer.&lt;/p&gt;
+&lt;p&gt;So I always get stuck when it comes to the beginning of writing formally. I have lots of thoughts in my head but they never actually pertain to the topic at hand. Either they&amp;rsquo;re too meta or too focused on what&amp;rsquo;s actually around me. Like for instance I heard the beginnings of a dodie song I recognize but almost barely just before this.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Outwards Facing Writing</title>
       <link>https://smog.ink/posts/outwards-facing-writing/</link>
       <pubDate>Thu, 20 Jul 2023 18:46:26 -0400</pubDate>
-      
       <guid>https://smog.ink/posts/outwards-facing-writing/</guid>
-      <description>here we are Again we observe about a year of break. But I&amp;rsquo;m pleasantly surprised to learn that is a shorter break than the last. Actually I lie, it is a longer break than the last. But&amp;hellip; okay yeah no it&amp;rsquo;s almost double the last break. But we&amp;rsquo;re here again, because coffee-and-sleep has not migrated yet, and the whole point of what I&amp;rsquo;m trying to do now is that I own what I write, so it won&amp;rsquo;t be on the anonymized wordpress blog either.</description>
+      <description>&lt;h2 id=&#34;here-we-are&#34;&gt;here we are&lt;/h2&gt;
+&lt;p&gt;Again we observe about a year of break. But I&amp;rsquo;m pleasantly surprised to learn that is a shorter break than the last. Actually I lie, it is a longer break than the last. But&amp;hellip; okay yeah no it&amp;rsquo;s almost double the last break. But we&amp;rsquo;re here again, because coffee-and-sleep has not migrated yet, and the whole point of what I&amp;rsquo;m trying to do now is that I own what I write, so it won&amp;rsquo;t be on the anonymized wordpress blog either.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Update 7/7/22</title>
       <link>https://smog.ink/posts/update-7-7-22/</link>
       <pubDate>Thu, 07 Jul 2022 10:20:20 -0400</pubDate>
-      
       <guid>https://smog.ink/posts/update-7-7-22/</guid>
-      <description>hides behind wall I haven&amp;rsquo;t posted on here since last year. I believe I&amp;rsquo;m now sort of at a breather again. ?
-productive things  I got into colleges, I&amp;rsquo;ve chosen a college, now I&amp;rsquo;m preparing for college. I graduated !!! I have my diploma and everything. Shocking Applied to summer programs and have been rejected; want to teach at PACT one last time. I should actually email Dr. Gandhi about that again.</description>
+      <description>&lt;h2 id=&#34;hides-behind-wall&#34;&gt;&lt;em&gt;hides behind wall&lt;/em&gt;&lt;/h2&gt;
+&lt;p&gt;I haven&amp;rsquo;t posted on here since last year. I believe I&amp;rsquo;m now sort of at a breather again. ?&lt;/p&gt;
+&lt;h3 id=&#34;productive-things&#34;&gt;productive things&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;I got into colleges, I&amp;rsquo;ve chosen a college, now I&amp;rsquo;m preparing for college.&lt;/li&gt;
+&lt;li&gt;I graduated !!! I have my diploma and everything. Shocking&lt;/li&gt;
+&lt;li&gt;Applied to summer programs and have been rejected; want to teach at PACT one last time. I should actually email Dr. Gandhi about that again.&lt;/li&gt;
+&lt;li&gt;I got scholarships :)&lt;/li&gt;
+&lt;li&gt;NCWIT national honorable mentino&lt;/li&gt;
+&lt;li&gt;National Cyber Scholar, again. They won&amp;rsquo;t give me 3k more for the course&lt;/li&gt;
+&lt;li&gt;Got As on all my Princeton courses (did get a B on LIT tho)&lt;/li&gt;
+&lt;li&gt;Joined Gracie Barra BJJ after graduation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;maybe-not-so-productive-things&#34;&gt;maybe not-so-productive things&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Okay, earlier things first: I dunno if I documented the &amp;ldquo;csprinceton.org&amp;rdquo; story here, or the SUNY Morrisville one, but now I have&lt;/li&gt;
+&lt;li&gt;I have a yearbook. My final school yearbook. I have the signatures separately&lt;/li&gt;
+&lt;li&gt;We watched Interstellar in physics&lt;/li&gt;
+&lt;li&gt;I went to SO many classes of other people like Mini and Amy&lt;/li&gt;
+&lt;li&gt;Why? cause I needed to make up credit. Why? cause I WENT TO INDIA FOR 2 AND A HALF WEEKS&lt;/li&gt;
+&lt;li&gt;Yeah, well, I did have to go to school on Saturdays, heh.&lt;/li&gt;
+&lt;li&gt;There&amp;rsquo;s the dermatologist story.&lt;/li&gt;
+&lt;li&gt;I met SO many people again. Have LOTS of pictures.&lt;/li&gt;
+&lt;li&gt;But it&amp;rsquo;s all overshadowed because. Well we had to come home early.&lt;/li&gt;
+&lt;li&gt;because Sreemayi was in a coma.&lt;/li&gt;
+&lt;li&gt;She died the following Tuesday? late night or Wednesday early morning&lt;/li&gt;
+&lt;li&gt;Because they took her off the ventilator.&lt;/li&gt;
+&lt;li&gt;Like just two blog posts ago I was still talking about visiting her class.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;It&amp;rsquo;s not fair. She had lots ahead of her. We had lots ahead of us, together.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Things to do when getting a new computer</title>
       <link>https://smog.ink/posts/getting-new-comp/</link>
       <pubDate>Tue, 14 Dec 2021 23:28:27 -0500</pubDate>
-      
       <guid>https://smog.ink/posts/getting-new-comp/</guid>
-      <description>Houskeeping list for myself.
- Download chrome, vscode, tinytex Make sure to not set chrome as default Change dock Change terminal appearance (i.e. paste the following in .zshrc)  function parse_git_branch() { git branch 2&amp;gt; /dev/null | sed -n -e &#39;s/^\* \(.*\)/[\1]/p&#39; } setopt PROMPT_SUBST export PROMPT=&#39;%F{228}%n%f %F{197}%~%f %F{39}$(parse_git_branch)%f %F{normal}$%f &#39;  Store previous files in hard drive Install python3 Install home-brew Install jdk Configure vscode (extensions, code command) Pin tabs, etc Get relevant folders back from hard drive: downloads, latex, program files (personal site) Get that thing (oh, Hugo https://gohugo.</description>
+      <description>&lt;p&gt;Houskeeping list for myself.&lt;/p&gt;
+&lt;!-- ## Things to do when getting a new computer --&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Download chrome, vscode, tinytex&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Make sure to not set chrome as default&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Change dock&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Change terminal appearance (i.e. paste the following in .zshrc)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;function parse_git_branch() {
+    git branch 2&amp;gt; /dev/null | sed -n -e &amp;#39;s/^\* \(.*\)/[\1]/p&amp;#39;
+}
+
+setopt PROMPT_SUBST
+export PROMPT=&amp;#39;%F{228}%n%f %F{197}%~%f %F{39}$(parse_git_branch)%f %F{normal}$%f &amp;#39;
+&lt;/code&gt;&lt;/pre&gt;&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Store previous files in hard drive&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Install python3&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Install home-brew&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Install jdk&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Configure vscode (extensions, code command)&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Pin tabs, etc&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Get relevant folders back from hard drive: downloads, latex, program files (personal site)&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Get that thing (oh, Hugo &lt;a href=&#34;https://gohugo.io/getting-started/&#34;&gt;https://gohugo.io/getting-started/&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Make ssh key and put it in GitHub&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>Update 12/14</title>
       <link>https://smog.ink/posts/update-12-14/</link>
       <pubDate>Tue, 14 Dec 2021 23:04:18 -0500</pubDate>
-      
       <guid>https://smog.ink/posts/update-12-14/</guid>
-      <description>here we go again Let&amp;rsquo;s get to it. I&amp;rsquo;m doing this mostly because I really should, it&amp;rsquo;s been a couple of weeks. I&amp;rsquo;m not at a breather yet, although maybe a little.
-Productive things  Got advice on classes to take in Princeton for spring semester Applied to UCs, and apparently USC Got PACT T-Shirt and SANS hoodie!! Got to think about things Managed to submit all of my last psets :)) Did my two algebra lectures for AIME prep Srushti came to CS Club for a guest lecture!</description>
+      <description>&lt;h2 id=&#34;here-we-go-again&#34;&gt;here we go again&lt;/h2&gt;
+&lt;p&gt;Let&amp;rsquo;s get to it. I&amp;rsquo;m doing this mostly because I really should, it&amp;rsquo;s been a couple of weeks. I&amp;rsquo;m not at a breather yet, although maybe a little.&lt;/p&gt;
+&lt;h3 id=&#34;productive-things&#34;&gt;Productive things&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Got advice on classes to take in Princeton for spring semester&lt;/li&gt;
+&lt;li&gt;Applied to UCs, and apparently USC&lt;/li&gt;
+&lt;li&gt;Got PACT T-Shirt and SANS hoodie!!&lt;/li&gt;
+&lt;li&gt;Got to think about things&lt;/li&gt;
+&lt;li&gt;Managed to submit all of my last psets :))&lt;/li&gt;
+&lt;li&gt;Did my two algebra lectures for AIME prep&lt;/li&gt;
+&lt;li&gt;Srushti came to CS Club for a guest lecture!!!&lt;/li&gt;
+&lt;li&gt;Did an instant decision day interview at SUNY Morrisville for massage therapy (got in)&lt;/li&gt;
+&lt;li&gt;Accepted into Ohio State !!! (dunno about scholarship)&lt;/li&gt;
+&lt;li&gt;Did basketball tryouts! But only for a day, I ditched after that&lt;/li&gt;
+&lt;li&gt;Updated a singular new post on Coffee and Sleep for newcomers&lt;/li&gt;
+&lt;li&gt;Attended a theory seminar thing and talked for like two minutes
+&lt;ul&gt;
+&lt;li&gt;Note to future mes: always check slide compilations ;-;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;SHP was quite fun this semester. Lots of cool math
+&lt;ul&gt;
+&lt;li&gt;Like group theory and surfaces like the real projective plane !!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Also learnt about fat cantor sets and other things on blogs&lt;/li&gt;
+&lt;li&gt;Got around to listening to 3b1b&amp;rsquo;s podcast
+&lt;ul&gt;
+&lt;li&gt;Honestly math is so cool&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;maybe-not-so-productive-things&#34;&gt;Maybe not so productive things&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;It was my birthday !! And we went to an escape room and it was all VERY FUN and I 100% recommend this for my future self, would do again
+&lt;ul&gt;
+&lt;li&gt;We managed to eat at a2b before that, and ate hot breads on the day of&lt;/li&gt;
+&lt;li&gt;Amy and Anni and Priya came&lt;/li&gt;
+&lt;li&gt;Lots of balloons!
+&lt;ul&gt;
+&lt;li&gt;Later I actually made one float in midair (more or less? it&amp;rsquo;s kind of hard to balance) by weighting it with a bag of murukus, carefully curated&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Anni gave me a clock LOL and Amy gave me a bobabear and Priya gave me a super soft blanket and chocolates and a really really nice leather(?) cover book with the world etched on it and it looks super sleek so I love to use it when I need scratch paper that&amp;rsquo;s not the iPad&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;There was a puja too, on Reenu&amp;rsquo;s birthday, and it was also quite fun
+&lt;ul&gt;
+&lt;li&gt;Went to SHP in the morning ^^; was fun and Reenu was there too and she just got snapchat so there are some hilarious videos from that&lt;/li&gt;
+&lt;li&gt;Then there was food and it was so gooddd&lt;/li&gt;
+&lt;li&gt;We finally got to play CLUE! Yay&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;College decisions started to come out and they&amp;rsquo;re pretty scary but we&amp;rsquo;ll see, nothing I can do now &amp;gt;&amp;lt;&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>Update 11/26</title>
       <link>https://smog.ink/posts/update-11-26/</link>
       <pubDate>Fri, 26 Nov 2021 12:16:51 -0500</pubDate>
-      
       <guid>https://smog.ink/posts/update-11-26/</guid>
-      <description>hi&amp;hellip; Been a while. Let&amp;rsquo;s just write stuff down now, shall we?
-Productive things  Actually won the philosophy award! Applied to NC Chapel Hill, MIT, Rutgers, Georgia Tech, UIUC, and Ohio State  Lots of essays&amp;hellip; and self-reported coursework&amp;hellip; and recommendation requests&amp;hellip;   Applied for Ohio State Eminence scholarship Did a sh*t ton of problem sets Met up with Prof. Assadi again Committed to AIME Prep Randomly signed up for the USACO training thing that Amy showed me Finally ordered t-shirts!</description>
+      <description>&lt;h2 id=&#34;hi&#34;&gt;hi&amp;hellip;&lt;/h2&gt;
+&lt;p&gt;Been a while. Let&amp;rsquo;s just write stuff down now, shall we?&lt;/p&gt;
+&lt;h3 id=&#34;productive-things&#34;&gt;Productive things&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Actually won the philosophy award!&lt;/li&gt;
+&lt;li&gt;Applied to NC Chapel Hill, MIT, Rutgers, Georgia Tech, UIUC, and Ohio State
+&lt;ul&gt;
+&lt;li&gt;Lots of essays&amp;hellip; and self-reported coursework&amp;hellip; and recommendation requests&amp;hellip;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Applied for Ohio State Eminence scholarship&lt;/li&gt;
+&lt;li&gt;Did a sh*t ton of problem sets&lt;/li&gt;
+&lt;li&gt;Met up with Prof. Assadi again&lt;/li&gt;
+&lt;li&gt;Committed to AIME Prep&lt;/li&gt;
+&lt;li&gt;Randomly signed up for the USACO training thing that Amy showed me&lt;/li&gt;
+&lt;li&gt;Finally ordered t-shirts!&lt;/li&gt;
+&lt;li&gt;Got 4th place in PClassic !!!
+&lt;ul&gt;
+&lt;li&gt;Tied in # of correct submissions with the 3rd place team, but had more penalties than them (see the table at the bottom)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Tried to get the Halloween Math Meet going, but COVID restrictions made us decide to cancel&lt;/li&gt;
+&lt;li&gt;Oh, there was this Start Strong Testing thing in the beginning of October&lt;/li&gt;
+&lt;li&gt;I submitted, like, one problem to the Cyber Futures contest, and I don&amp;rsquo;t think it was accepted because it was probably past the deadline on the 15th&lt;/li&gt;
+&lt;li&gt;Met with Ethan for exactly one Green Generation practice test&lt;/li&gt;
+&lt;li&gt;AMC 12A and 12B&lt;/li&gt;
+&lt;li&gt;Visited COS226 (Allen/Jason visited COS487 in turn)&lt;/li&gt;
+&lt;li&gt;Ended MP1&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;maybe-not-so-productive-things&#34;&gt;Maybe not so productive things&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Went to a couple of houses for trick-or-treating&lt;/li&gt;
+&lt;li&gt;Tried to visit Sreemayi&amp;rsquo;s class for her birthday, but COVID restrictions&lt;/li&gt;
+&lt;li&gt;Went out to eat a fair amount of times; most recent was at the Vietnamese place with most of the scioly captains
+&lt;ul&gt;
+&lt;li&gt;Was slightly awkward, but the food was good, I think&lt;/li&gt;
+&lt;li&gt;Went out to walk at the trail afterwards&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Visited Krause a lot of times, and I TA for Z&lt;/li&gt;
+&lt;li&gt;Watched all seven Harry Potter movies (again)
+&lt;ul&gt;
+&lt;li&gt;Shourya seemed to enjoy them&lt;/li&gt;
+&lt;li&gt;Sreemayi is reading the Sorcerer&amp;rsquo;s Stone!&lt;/li&gt;
+&lt;li&gt;Pinni gave us HP bookmarks; I have a bunch of Voldemort bookmarks now&lt;/li&gt;
+&lt;li&gt;I also read the entirety of the Half Blood Prince because Shourya got it from the library (without reading the first five books??)&lt;/li&gt;
+&lt;li&gt;About reading; I reread the first two Divergent books, which was interesting&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Yesterday we also watched Aladdin when Babai/Pinni/Sreemayi when they came over for Thanksgiving dinner
+&lt;ul&gt;
+&lt;li&gt;Was quite interesting, actually, to &lt;em&gt;actually&lt;/em&gt; sit at the table together for Thanksgiving&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Got the chance to think about things I can&amp;rsquo;t think about when I&amp;rsquo;m playing ketchup&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h4 id=&#34;top-of-pclassic-ranking-table&#34;&gt;Top of PClassic ranking table:&lt;/h4&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Team&lt;/th&gt;
+          &lt;th&gt;Name&lt;/th&gt;
+          &lt;th&gt;Username&lt;/th&gt;
+          &lt;th&gt;Score&lt;/th&gt;
+          &lt;th&gt;Penalty&lt;/th&gt;
+          &lt;th&gt;School&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;1&lt;/td&gt;
+          &lt;td&gt;Calcoholics&lt;/td&gt;
+          &lt;td&gt;radiantcheddar&lt;/td&gt;
+          &lt;td&gt;8&lt;/td&gt;
+          &lt;td&gt;9&lt;/td&gt;
+          &lt;td&gt;Brandywine High School, The Charter School of Wilmington&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;2&lt;/td&gt;
+          &lt;td&gt;Floofers&lt;/td&gt;
+          &lt;td&gt;zaxwellmen&lt;/td&gt;
+          &lt;td&gt;7&lt;/td&gt;
+          &lt;td&gt;7&lt;/td&gt;
+          &lt;td&gt;Stuyvesant High School&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;3&lt;/td&gt;
+          &lt;td&gt;sag tree lazy prop a gaters&lt;/td&gt;
+          &lt;td&gt;lazy_sag_tree&lt;/td&gt;
+          &lt;td&gt;6&lt;/td&gt;
+          &lt;td&gt;2&lt;/td&gt;
+          &lt;td&gt;Henry M. Gunn High School&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;4&lt;/td&gt;
+          &lt;td&gt;/[spin]*s/&lt;/td&gt;
+          &lt;td&gt;spinstars&lt;/td&gt;
+          &lt;td&gt;6&lt;/td&gt;
+          &lt;td&gt;7&lt;/td&gt;
+          &lt;td&gt;West Windsor-Plainsboro High School North&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
     </item>
-    
     <item>
       <title>Update 10/2</title>
       <link>https://smog.ink/posts/update-10-2/</link>
       <pubDate>Wed, 22 Sep 2021 19:49:54 -0400</pubDate>
-      
       <guid>https://smog.ink/posts/update-10-2/</guid>
-      <description>hello there Very much has been happening very quickly, and I&amp;rsquo;m sure I&amp;rsquo;m going to forget something I did in these past two months that past-me would be angry I left out.
-Productive things  Chose Princeton courses  And yes, they started Managed to take COS487 :)  Actually made some friends there?   And yes, actually submitted all hw on time (so far, hopefully forever)   Met with Prof.</description>
+      <description>&lt;h2 id=&#34;hello-there&#34;&gt;hello there&lt;/h2&gt;
+&lt;p&gt;Very much has been happening very quickly, and I&amp;rsquo;m sure I&amp;rsquo;m going to forget something I did in these past two months that past-me would be angry I left out.&lt;/p&gt;
+&lt;h3 id=&#34;productive-things&#34;&gt;Productive things&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Chose Princeton courses
+&lt;ul&gt;
+&lt;li&gt;And yes, they started&lt;/li&gt;
+&lt;li&gt;Managed to take COS487 :)
+&lt;ul&gt;
+&lt;li&gt;Actually made some friends there?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;And yes, actually submitted all hw on time (so far, hopefully forever)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Met with Prof. Assadi
+&lt;ul&gt;
+&lt;li&gt;Still have to finish that writeup&lt;/li&gt;
+&lt;li&gt;And email again&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Finished all summer hw (well, almost, not the secondary book for Lit yet)
+&lt;ul&gt;
+&lt;li&gt;Did the APUSH summer hw qusetions in one night ;-;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Finished SANS
+&lt;ul&gt;
+&lt;li&gt;Access until October 31&lt;/li&gt;
+&lt;li&gt;Signed up for Cyber Futures&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Still use journal but not as extensively&lt;/li&gt;
+&lt;li&gt;Submitted Paradox and Infinity submission(s!)&lt;/li&gt;
+&lt;li&gt;Submitted National Merit Scholarship semifinalist documents or whatever
+&lt;ul&gt;
+&lt;li&gt;Involves actually writing an essay&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Got permit!&lt;/li&gt;
+&lt;li&gt;Did Science Olympiad tryouts&lt;/li&gt;
+&lt;li&gt;Filled out general Common App questions and specific college questions, but not any essays&lt;/li&gt;
+&lt;li&gt;CS Club started
+&lt;ul&gt;
+&lt;li&gt;Has over 90 members now? So far?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Oh, did a college essay bootcamp in August, was interesting&lt;/li&gt;
+&lt;li&gt;Started Numbers Don&amp;rsquo;t Lie around that time&lt;/li&gt;
+&lt;li&gt;Oh and was pronouncer for Nationals&lt;/li&gt;
+&lt;li&gt;Did some random interesting things&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;maybe-not-so-productive-things&#34;&gt;Maybe not so productive things&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Chaitanya Uncle left, and I got to meet his daughter who is very adorable&lt;/li&gt;
+&lt;li&gt;Went to a college visit trip which was very massive and awesome&lt;/li&gt;
+&lt;li&gt;Shortly after stood in DMV line for around 3 hours (2 of which were outdoors in the sun and heat) to get permit&lt;/li&gt;
+&lt;li&gt;Am driving around to school and Princeton which is very cool&lt;/li&gt;
+&lt;li&gt;Sometimes eat lunch with other Princeton kids (only twice now, both on Fridays)&lt;/li&gt;
+&lt;li&gt;Somehow got convinced to do scioly
+&lt;ul&gt;
+&lt;li&gt;Probably won&amp;rsquo;t get to be on actual team but whatever&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Am entirely very surprised with how much I got done these past two weeks&lt;/li&gt;
+&lt;li&gt;Chose to do CJLH for Halloween&lt;/li&gt;
+&lt;li&gt;Still no bike repair&lt;/li&gt;
+&lt;li&gt;We played basketball yesterday because it was a bit warmer, but someone was draining their swimming pool so there was a river under the hoop, and the ball kept splashing in there, it was very funny&lt;/li&gt;
+&lt;li&gt;And yes, got to meet everyone again, and I love it&lt;/li&gt;
+&lt;li&gt;Anni usually drives me to school&lt;/li&gt;
+&lt;li&gt;Unfortunately I don&amp;rsquo;t do yoga in the mornings anymore
+&lt;ul&gt;
+&lt;li&gt;I hope this will change, but&amp;hellip;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>Update 8/9</title>
       <link>https://smog.ink/posts/update-8-9/</link>
       <pubDate>Mon, 09 Aug 2021 10:34:43 -0400</pubDate>
-      
       <guid>https://smog.ink/posts/update-8-9/</guid>
-      <description>hi Hi.
-Productive things  Uploaded proof of vaccine to netID Wrote 6 essays  Not all of them are good, but brainstorming is happening!   Finished sketching result and Zelke lower bound Started on summer homework  Finished Never Let Me Go Started the first chapter for APUSH   Started SANS again Started yoga in the mornings Did Art of Debating again Started writing in journal extensively  Maybe not so productive things  Chaitanya Uncle arrived  Now more people play basketball in the evenings?</description>
+      <description>&lt;h2 id=&#34;hi&#34;&gt;hi&lt;/h2&gt;
+&lt;p&gt;Hi.&lt;/p&gt;
+&lt;h3 id=&#34;productive-things&#34;&gt;Productive things&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Uploaded proof of vaccine to netID&lt;/li&gt;
+&lt;li&gt;Wrote 6 essays
+&lt;ul&gt;
+&lt;li&gt;Not all of them are good, but brainstorming is happening!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Finished sketching result and Zelke lower bound&lt;/li&gt;
+&lt;li&gt;Started on summer homework
+&lt;ul&gt;
+&lt;li&gt;Finished &lt;em&gt;Never Let Me Go&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Started the first chapter for APUSH&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Started SANS again&lt;/li&gt;
+&lt;li&gt;Started yoga in the mornings&lt;/li&gt;
+&lt;li&gt;Did Art of Debating again&lt;/li&gt;
+&lt;li&gt;Started writing in journal extensively&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;maybe-not-so-productive-things&#34;&gt;Maybe not so productive things&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Chaitanya Uncle arrived
+&lt;ul&gt;
+&lt;li&gt;Now more people play basketball in the evenings?&lt;/li&gt;
+&lt;li&gt;Babai came yesterday too&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Found out the front wheel of my bike is flat (again)&lt;/li&gt;
+&lt;li&gt;Am sleeping a bit earlier
+&lt;ul&gt;
+&lt;li&gt;Hopefully this lasts!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Sabrina finally DMed me about the TSA email&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>Update 7/30</title>
       <link>https://smog.ink/posts/update-7-30/</link>
       <pubDate>Fri, 30 Jul 2021 21:42:57 -0400</pubDate>
-      
       <guid>https://smog.ink/posts/update-7-30/</guid>
-      <description>Hi again Only a month until school&amp;hellip;
-Productive things  Did the rest of the lecture  Over two days   Talent show!  Recorded Pachtaoge with Disha Was a massive procrastination fest But very fun! 100% worth it Figured out notes for the first time in a while   Went to most PACT lectures for Group II  Went to everything after first lecture except for last Friday evening(Vihan)   Freewrote a bit  Nothing very important, but it helped to just write    Maybe not so productive things  Went to four different places five different times over three days and spent at least 2 hours at each place  Puja (very long!</description>
+      <description>&lt;h2 id=&#34;hi-again&#34;&gt;Hi again&lt;/h2&gt;
+&lt;p&gt;Only a month until school&amp;hellip;&lt;/p&gt;
+&lt;h3 id=&#34;productive-things&#34;&gt;Productive things&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Did the rest of the lecture
+&lt;ul&gt;
+&lt;li&gt;Over two days&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Talent show!
+&lt;ul&gt;
+&lt;li&gt;Recorded Pachtaoge with Disha&lt;/li&gt;
+&lt;li&gt;Was a massive procrastination fest&lt;/li&gt;
+&lt;li&gt;But very fun! 100% worth it&lt;/li&gt;
+&lt;li&gt;Figured out notes for the first time in a while&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Went to most PACT lectures for Group II
+&lt;ul&gt;
+&lt;li&gt;Went to everything after first lecture except for last Friday evening(Vihan)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Freewrote a bit
+&lt;ul&gt;
+&lt;li&gt;Nothing very important, but it helped to just write&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;maybe-not-so-productive-things&#34;&gt;Maybe not so productive things&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Went to four different places five different times over three days and spent at least 2 hours at each place
+&lt;ul&gt;
+&lt;li&gt;Puja (very long!): Friday afternoon/night&lt;/li&gt;
+&lt;li&gt;Manabadi photoshoot: Saturday morning&lt;/li&gt;
+&lt;li&gt;Another &amp;ldquo;puja&amp;rdquo; (ended up just being Reenu, Nikhi, and I hanging out with/without Milo because I arrived late): Saturday noon-evening&lt;/li&gt;
+&lt;li&gt;Baby shower?: Saturday night (also at Babai-Pinni&amp;rsquo;s house)&lt;/li&gt;
+&lt;li&gt;Dinner: Sunday late afternoon-night (with Sanju and Sidharth)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Consequently got sick
+&lt;ul&gt;
+&lt;li&gt;No idea what it is&lt;/li&gt;
+&lt;li&gt;Had to cancel lecture on Tuesday and reschedule to Thursday&lt;/li&gt;
+&lt;li&gt;Apparently I had to have a coughing fit in the middle of lecture Thursday :(&lt;/li&gt;
+&lt;li&gt;Was bad first two days and then got better but it hasn&amp;rsquo;t gone away yet ;-;&lt;/li&gt;
+&lt;li&gt;So yes, I unfortunately had to sing on a sore throat&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Talked about very random stuff after lecture&lt;/li&gt;
+&lt;li&gt;Lifted basketball hoop!&lt;/li&gt;
+&lt;li&gt;Guacamole recipe:
+&lt;ul&gt;
+&lt;li&gt;1/2 Avocado&lt;/li&gt;
+&lt;li&gt;A bit of onion (chopped)&lt;/li&gt;
+&lt;li&gt;Some lemon (squeezed)&lt;/li&gt;
+&lt;li&gt;A sprinkle of cumin&lt;/li&gt;
+&lt;li&gt;Salt&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Drew this:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt=&#34;hmm girl&#34; loading=&#34;lazy&#34; src=&#34;https://smog.ink/personal-site-2/img/7-30.png&#34;&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Update 7/19</title>
       <link>https://smog.ink/posts/update-7-19/</link>
       <pubDate>Mon, 19 Jul 2021 10:23:51 -0400</pubDate>
-      
       <guid>https://smog.ink/posts/update-7-19/</guid>
-      <description>I&amp;rsquo;m a bit late this time Oh, well.
-Productive things  Did a lecture on Tuesday :D  Only got through half the material ;-; But it was very fun   Started on college essay brainstorming!  Began by taking walks (Disha&amp;rsquo;s advice)   Got my first 100% in Paradox and Infinity Accepted into MPFG :D  Hotels were booked super fast   NC Scholarship sent an email out about prizes Finally got back to Laura and Dave  They didn&amp;rsquo;t reply back yet   Filled out Option II form  For a CS course, better luck    Maybe not so productive things I can&amp;rsquo;t believe that I didn&amp;rsquo;t mention the TSA application last time.</description>
+      <description>&lt;h2 id=&#34;im-a-bit-late-this-time&#34;&gt;I&amp;rsquo;m a bit late this time&lt;/h2&gt;
+&lt;p&gt;Oh, well.&lt;/p&gt;
+&lt;h3 id=&#34;productive-things&#34;&gt;Productive things&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Did a lecture on Tuesday :D
+&lt;ul&gt;
+&lt;li&gt;Only got through half the material ;-;&lt;/li&gt;
+&lt;li&gt;But it was very fun&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Started on college essay brainstorming!
+&lt;ul&gt;
+&lt;li&gt;Began by taking walks (Disha&amp;rsquo;s advice)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Got my first 100% in Paradox and Infinity&lt;/li&gt;
+&lt;li&gt;Accepted into MPFG :D
+&lt;ul&gt;
+&lt;li&gt;Hotels were booked super fast&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;NC Scholarship sent an email out about prizes&lt;/li&gt;
+&lt;li&gt;Finally got back to Laura and Dave
+&lt;ul&gt;
+&lt;li&gt;They didn&amp;rsquo;t reply back yet&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Filled out Option II form
+&lt;ul&gt;
+&lt;li&gt;For a CS course, better luck&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;maybe-not-so-productive-things&#34;&gt;Maybe not so productive things&lt;/h3&gt;
+&lt;p&gt;I can&amp;rsquo;t believe that I didn&amp;rsquo;t mention the TSA application last time.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Update 7/8</title>
       <link>https://smog.ink/posts/update-7-8/</link>
       <pubDate>Thu, 08 Jul 2021 00:25:43 -0400</pubDate>
-      
       <guid>https://smog.ink/posts/update-7-8/</guid>
-      <description>I&amp;rsquo;m back again Good!
-Productive things  Finished reading AD21 and revising writeup, starting on first research question Started attending Foundations Academy, which is actually pretty hype Date is set for PACT lecture College list is pretty much finalized Have been pretty consistent with Paradox and Infinity  Not so much with the other course   Finished sending recommenders the forms  Maybe not so productive things  Spent basically the entire weekend with Varun Mamayya and Siri Atta  Watched movies Played cards Played video games (Trials Frontier, Shark-eating game, Celeste (!</description>
+      <description>&lt;h2 id=&#34;im-back-again&#34;&gt;I&amp;rsquo;m back again&lt;/h2&gt;
+&lt;p&gt;Good!&lt;/p&gt;
+&lt;h3 id=&#34;productive-things&#34;&gt;Productive things&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Finished reading AD21 and revising writeup, starting on first research question&lt;/li&gt;
+&lt;li&gt;Started attending Foundations Academy, which is actually pretty hype&lt;/li&gt;
+&lt;li&gt;Date is set for PACT lecture&lt;/li&gt;
+&lt;li&gt;College list is pretty much finalized&lt;/li&gt;
+&lt;li&gt;Have been pretty consistent with Paradox and Infinity
+&lt;ul&gt;
+&lt;li&gt;Not so much with the other course&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Finished sending recommenders the forms&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;maybe-not-so-productive-things&#34;&gt;Maybe not so productive things&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Spent basically the entire weekend with Varun Mamayya and Siri Atta
+&lt;ul&gt;
+&lt;li&gt;Watched movies&lt;/li&gt;
+&lt;li&gt;Played cards&lt;/li&gt;
+&lt;li&gt;Played video games (Trials Frontier, Shark-eating game, Celeste (!!))&lt;/li&gt;
+&lt;li&gt;Went on a hike&lt;/li&gt;
+&lt;li&gt;Played basketball (at our house)&lt;/li&gt;
+&lt;li&gt;Drew&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Met with CS Club
+&lt;ul&gt;
+&lt;li&gt;Arrived 30 minutes late ;-; but it was fine&lt;/li&gt;
+&lt;li&gt;Ate pizza, Allen brought Snapple&lt;/li&gt;
+&lt;li&gt;Wrote out addresses on envelopes to mail out the stickers&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>Update 6/27</title>
       <link>https://smog.ink/posts/update-6-27/</link>
       <pubDate>Sun, 27 Jun 2021 23:07:55 -0400</pubDate>
-      
       <guid>https://smog.ink/posts/update-6-27/</guid>
-      <description>I&amp;rsquo;m getting the hang of this Let&amp;rsquo;s hope I don&amp;rsquo;t jinx it.
-Productive things  Met with advisor, finished a writeup on results from RSW18  Still need to complete reading AD21   Went to Strogatz award ceremony Tried sticking to schedule but failed because it takes way too long to read papers Wrote emails to recommenders Started Paradox and Infinity Started some other philosophy course  Maybe not so productive things  Went to Babai/Pinni&amp;rsquo;s Went to Jhopri&amp;rsquo;s with Amy after the ceremony  Then went to the park with Anni Then ate boba ice cream, which was SO GOOD   Watched a whole ton of Big Shot Watched Ant Man and the Wasp  </description>
+      <description>&lt;h2 id=&#34;im-getting-the-hang-of-this&#34;&gt;I&amp;rsquo;m getting the hang of this&lt;/h2&gt;
+&lt;p&gt;Let&amp;rsquo;s hope I don&amp;rsquo;t jinx it.&lt;/p&gt;
+&lt;h3 id=&#34;productive-things&#34;&gt;Productive things&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Met with advisor, finished a writeup on results from RSW18
+&lt;ul&gt;
+&lt;li&gt;Still need to complete reading AD21&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Went to Strogatz award ceremony&lt;/li&gt;
+&lt;li&gt;Tried sticking to schedule but failed because it takes way too long to read papers&lt;/li&gt;
+&lt;li&gt;Wrote emails to recommenders&lt;/li&gt;
+&lt;li&gt;Started Paradox and Infinity&lt;/li&gt;
+&lt;li&gt;Started some other philosophy course&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;maybe-not-so-productive-things&#34;&gt;Maybe not so productive things&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Went to Babai/Pinni&amp;rsquo;s&lt;/li&gt;
+&lt;li&gt;Went to Jhopri&amp;rsquo;s with Amy after the ceremony
+&lt;ul&gt;
+&lt;li&gt;Then went to the park with Anni&lt;/li&gt;
+&lt;li&gt;Then ate boba ice cream, which was SO GOOD&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Watched a whole ton of Big Shot&lt;/li&gt;
+&lt;li&gt;Watched Ant Man and the Wasp&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>Update 6/20</title>
       <link>https://smog.ink/posts/update-6-20/</link>
       <pubDate>Sun, 20 Jun 2021 23:39:35 -0400</pubDate>
-      
       <guid>https://smog.ink/posts/update-6-20/</guid>
-      <description>A streak of 2 The first time I updated, it was 6/2, and now it&amp;rsquo;s 6/20&amp;hellip;
-APs are over, HSCTF is over, Phi Day is over. Junior year is over. Summer has started. Things are boutta change.
-Productive things:  Finish New Horizons  Can&amp;rsquo;t wait to review the material B)   Finish all APs  They went okay, I guess   HSCTF  grading, message-board, nrc, zkp Did some infra, but there&amp;rsquo;s a whole lot I&amp;rsquo;ve gotta know for next time   CS Club VP 2021!</description>
+      <description>&lt;h2 id=&#34;a-streak-of-2&#34;&gt;A streak of 2&lt;/h2&gt;
+&lt;p&gt;The first time I updated, it was 6/2, and now it&amp;rsquo;s 6/2&lt;strong&gt;0&lt;/strong&gt;&amp;hellip;&lt;/p&gt;
+&lt;p&gt;APs are over, HSCTF is over, Phi Day is over. Junior year is over. Summer has started. Things are boutta change.&lt;/p&gt;
+&lt;h3 id=&#34;productive-things&#34;&gt;Productive things:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Finish New Horizons
+&lt;ul&gt;
+&lt;li&gt;Can&amp;rsquo;t wait to review the material B)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Finish all APs
+&lt;ul&gt;
+&lt;li&gt;They went okay, I guess&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;HSCTF
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;grading&lt;/em&gt;, &lt;em&gt;message-board&lt;/em&gt;, &lt;em&gt;nrc&lt;/em&gt;, &lt;em&gt;zkp&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Did some infra, but there&amp;rsquo;s a whole lot I&amp;rsquo;ve gotta know for next time&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;CS Club VP 2021!&lt;/li&gt;
+&lt;li&gt;Phi Day Math Meet
+&lt;ul&gt;
+&lt;li&gt;Literally started the Thursday of. The meet was on Saturday.&lt;/li&gt;
+&lt;li&gt;Still made 40 problems, still hosted the meet, IT WORKED OUT&lt;/li&gt;
+&lt;li&gt;There were errors in 3 of the questions.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Finished Junior Year
+&lt;ul&gt;
+&lt;li&gt;And all assignments with it :&amp;gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Made a tentative plan for the &lt;strong&gt;summer&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;maybe-not-so-productive-things&#34;&gt;Maybe not so productive things:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Went to JProm. Had fun B)
+&lt;ul&gt;
+&lt;li&gt;Ended up going to Macy&amp;rsquo;s for the dress, and spent a whole lotta time there&lt;/li&gt;
+&lt;li&gt;Ended up wearing a different dress (ordered online), but both were cool&lt;/li&gt;
+&lt;li&gt;The food was eh. Clearly cheap, but tasted good&amp;hellip;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Balanced dolphin after Phi Day (with Amy and Priya)&lt;/li&gt;
+&lt;li&gt;Watched Luca&lt;/li&gt;
+&lt;li&gt;Watched Senior Graduation! (with Allen and Jeremy)&lt;/li&gt;
+&lt;li&gt;Watched Interstellar in Physics&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>Update 6/2</title>
       <link>https://smog.ink/posts/update-6-2/</link>
       <pubDate>Wed, 02 Jun 2021 21:26:24 -0400</pubDate>
-      
       <guid>https://smog.ink/posts/update-6-2/</guid>
-      <description>Yeah, it&amp;rsquo;s my first update. Things I&amp;rsquo;ve done in the past week-ish:
-Productive things:  Start the end of physics C prep. Start attending New Horizons. (It&amp;rsquo;s more than halfway over ;-;.)  As a result, get pulled into way too many cool CS topics. This time, there is an actual doc with links.   Start the Sans Foundations course. Clean. up. my. room.  Maybe not so productive things:  Actually meet people this weekend!</description>
+      <description>&lt;h2 id=&#34;yeah-its-my-first-update&#34;&gt;Yeah, it&amp;rsquo;s my first update.&lt;/h2&gt;
+&lt;p&gt;Things I&amp;rsquo;ve done in the past week-ish:&lt;/p&gt;
+&lt;h3 id=&#34;productive-things&#34;&gt;Productive things:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Start the end of physics C prep.&lt;/li&gt;
+&lt;li&gt;Start attending New Horizons. (It&amp;rsquo;s more than halfway over ;-;.)
+&lt;ul&gt;
+&lt;li&gt;As a result, get pulled into way too many cool CS topics.&lt;/li&gt;
+&lt;li&gt;This time, there is an actual doc with links.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Start the Sans Foundations course.&lt;/li&gt;
+&lt;li&gt;Clean. up. my. room.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;maybe-not-so-productive-things&#34;&gt;Maybe not so productive things:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Actually meet people this weekend!&lt;/li&gt;
+&lt;li&gt;Still haven&amp;rsquo;t gotten the dress.&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>Hello World!</title>
       <link>https://smog.ink/posts/first-post/</link>
       <pubDate>Wed, 26 May 2021 16:05:49 -0400</pubDate>
-      
       <guid>https://smog.ink/posts/first-post/</guid>
-      <description>Hi :) My name is Shreya.
-This is probably going to be my personal site. We&amp;rsquo;ll see.
-Goals  Make a portfolio-over-the-years. Update regularly with what I&amp;rsquo;ve been working on.  Attribution This site is made using Hugo and its PaperMod theme! Legend goes that I looked at 3b1b&amp;rsquo;s Manim documentation and loved its design. Obviously I have to start clicking on things to find more about this piece of code, so I came across Pradyun&amp;rsquo;s website, and loved this design too.</description>
+      <description>&lt;h2 id=&#34;hi-&#34;&gt;Hi :)&lt;/h2&gt;
+&lt;p&gt;My name is Shreya.&lt;/p&gt;
+&lt;p&gt;This is probably going to be my personal site. We&amp;rsquo;ll see.&lt;/p&gt;
+&lt;h2 id=&#34;goals&#34;&gt;Goals&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Make a portfolio-over-the-years.&lt;/li&gt;
+&lt;li&gt;Update regularly with what I&amp;rsquo;ve been working on.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;attribution&#34;&gt;Attribution&lt;/h2&gt;
+&lt;p&gt;This site is made using Hugo and its PaperMod theme! Legend goes that I looked at &lt;a href=&#34;https://3b1b.github.io/manim/&#34;&gt;3b1b&amp;rsquo;s Manim documentation&lt;/a&gt; and loved its design. Obviously I have to start clicking on things to find more about this piece of code, so I came across &lt;a href=&#34;https://pradyunsg.me/&#34;&gt;Pradyun&amp;rsquo;s&lt;/a&gt; website, and loved &lt;em&gt;this&lt;/em&gt; design too. At this point I was kind of mind blown that there were really themes I thought were sleek and actually usable, so I zoomed over to Hugo, and a day later, here we are.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
