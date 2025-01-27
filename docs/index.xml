@@ -22,7 +22,7 @@
 &lt;h2 id=&#34;how-fast-are-you-going&#34;&gt;how fast are you going?&lt;/h2&gt;
 &lt;p&gt;basically with diffeq we&amp;rsquo;re trying to solve equations that relate how fast you&amp;rsquo;re going (and acceleration, and higher orders) with the function itself. most of the diffeqs we are able to solve are of the form
 $$ \sum a_n(x) y^{(n)} = f(x) $$
-which is linear in y, so we call it a &lt;em&gt;linear differential equation&lt;/em&gt;.&lt;/p&gt;</description>
+which is linear in the variables $y^{(i)}$, so we call it a &lt;em&gt;linear differential equation&lt;/em&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Observation</title>
