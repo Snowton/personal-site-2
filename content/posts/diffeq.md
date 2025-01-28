@@ -5,6 +5,7 @@ draft: false
 ---
 I'm ASEing diffeq this IAP. The test is tomorrow, I'm finishing up the final sections of the homework packet. I don't have too much time before 8.20 lecture today, so I'll instead do a little review:
 
+debugging 1
 ## how fast are you going?
 basically with diffeq we're trying to solve equations that relate how fast you're going (and acceleration, and higher orders) with the function itself. most of the diffeqs we are able to solve are of the form
 $$ \sum a_n(x) y^{(n)} = f(x) $$
