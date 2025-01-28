@@ -19,7 +19,7 @@
       <pubDate>Mon, 27 Jan 2025 14:39:33 -0500</pubDate>
       <guid>https://smog.ink/posts/diffeq/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m ASEing diffeq this IAP. The test is tomorrow, I&amp;rsquo;m finishing up the final sections of the homework packet. I don&amp;rsquo;t have too much time before 8.20 lecture today, so I&amp;rsquo;ll instead do a little review:&lt;/p&gt;
-&lt;p&gt;debugging 2&lt;/p&gt;
+&lt;p&gt;debugging 3&lt;/p&gt;
 &lt;h2 id=&#34;how-fast-are-you-going&#34;&gt;how fast are you going?&lt;/h2&gt;
 &lt;p&gt;basically with diffeq we&amp;rsquo;re trying to solve equations that relate how fast you&amp;rsquo;re going (and acceleration, and higher orders) with the function itself. most of the diffeqs we are able to solve are of the form
 $$ \sum a_n(x) y^{(n)} = f(x) $$
