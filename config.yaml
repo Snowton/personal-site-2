@@ -28,6 +28,7 @@ params:
     DateFormat: "January 2, 2006"
     defaultTheme: auto # dark, light
     disableThemeToggle: false
+    math: true
 
     # my config (footer)
     attribution: false
@@ -167,3 +168,15 @@ markup:
     goldmark:
         renderer:
             unsafe: true
+
+        passthrough:
+          delimiters:
+            block:
+            - - \[
+              - \]
+            - - $$
+              - $$
+            inline:
+            - - \(
+              - \)
+          enable: true
