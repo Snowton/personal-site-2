@@ -4,8 +4,6 @@ date: 2025-01-27T14:39:33-05:00
 draft: false
 ---
 I'm ASEing diffeq this IAP. The test is tomorrow, I'm finishing up the final sections of the homework packet. I don't have too much time before 8.20 lecture today, so I'll instead do a little review:
-
-debugging 3
 ## how fast are you going?
 basically with diffeq we're trying to solve equations that relate how fast you're going (and acceleration, and higher orders) with the function itself. most of the diffeqs we are able to solve are of the form
 $$ \sum a_n(x) y^{(n)} = f(x) $$
@@ -32,7 +30,7 @@ something i overlooked is... what if the form we choose for $y_p$ is a solution 
 
 ## systems of equations
 You can turn any system of higher-order differential equations to a system of first order of differential equations by introducing more variables for every higher order (other than the highest order, of course). if this is a linear homogenous system, you can represent it a a matrix $\mathbf{x}' = A\mathbf{x}$ where A is a constant matrix. Then you can guess normal modes $\mathbf{x} = e^{\lambda t} \mathbf{v}$, and plugging it in tells you $\mathbf{v}$ must be an eigenvector with $\lambda$ as an eigenvalue. finding all of the eigenvectors and corresponding eigenvalues gives you all of the normal modes, and you can take a linear combination of these to get the general solution. for complex eigenvalues, you can get real basis functions instead by taking the real and complex parts of $e^{\lambda t} v$. for repeated eigenvalues $\lambda$ of multiplicity $k$, the good ("complete") case is when the there are $k$ distinct eigenvectors, but for 2 dimensions the matrix would just be $$\begin{bmatrix}  
-\lambda & 0 \\  
+\lambda & 0 \\\\  
 0 & \lambda 
 \end{bmatrix}$$which is generally not the case, and if it was you'd know it well beforehand. instead, for 2 dimensions, use a linear combination $\mathbf{z} = (\vec{\beta} + \vec{\alpha}t)e^t$ where $\vec{\alpha}$ is the eigenvector you found, and $\vec{\beta}$ is a solution to $(A - \lambda I) \vec{\beta} = \vec{\alpha}$ (which you can verify by plugging $\mathbf{z}$ in to the original system $\mathbf{x}' = A \mathbf{x}$ yourself). since $(A - \lambda I)$ is singular (for the 2d case), this system must be solved by elimination, without inverses. for higher dimensional cases, the general solution essentially tacks on more powers of $t$ as usual. see [this](https://www.math.purdue.edu/~neptamin/303Au21/Handouts/High_defect.pdf) pdf for more details... but...
 
@@ -40,7 +38,7 @@ it may be simpler to just "flatten" the $n$-dimensional system into an $n$-th or
 
 if you can change bases to one where you get a diagonal matrix, can write $A = S^{-1}\Lambda S$. then solution is 
 $$S^{-1}\begin{bmatrix}  
-e^\lambda_1 & 0 \\  
+e^\lambda_1 & 0 \\\\ 
 0 & e^\lambda_2 
 \end{bmatrix} S$$
 which we define to be $e^{At}$, as the definition for that is "$e^{At}\mathbf{x(0)}$ is a solution to $\mathbf{x}' = A\mathbf{x}$". S is a matrix that has eigenvectors of A as columns. doing a change of basis makes the evolution of variables very easy to compute/visualize!
@@ -67,7 +65,10 @@ no worries, differential equations are not all solvable! there are a couple of m
 			7. degenerate node (repeated eigenvalue, not complete)
 
 ## conclusion
-exponential functions are really cool! in fact, $e^x$ was basically defined to be really cool (solution of $y' = y$)!
+exponential functions are really cool! in fact, $e^x$ was basically defined to be really cool (solution of $y' = y$)! 
+
+### fourier series endnote
+also, you can use (sine/cosine) fourier series to make some things easier; writing $f(x)$ in $p(D)y = f(x)$ as a Fourier series makes it easy to compute a particular solution by equating coefficients. it's easy to find solutions to a PDE like $\frac{\partial u}{\partial t} = k\frac{\partial^2 u}{\partial x^2}$ or the wave equation $\frac{\partial^2 u}{\partial t^2} = v^2 \frac{\partial^2 u}{\partial x^2}$ using fourier series, as the form of normal (basis) solutions $u(x,t)=v(x)w(t)$ is usually written with $v(x)$ being sums of sines and cosines. then it's easy to equate coefficients between the initial spatial condition at $u(x,0)$ to $v(x)$, providing that you chose a suitable periodic extension for $u(x,0)$. there's no magic here though, only doing regular diffeq on $v,w$ after substituting $u=vw$ into the PDE.
 
 ## resources
 material for the hw packets mostly come from https://math.mit.edu/~jorloff/suppnotes/suppnotes03/ASENotesAndExercises.html and chapters 1,2,8 of Edwards and Penney, Elementary Differential Equations with Boundary-Value Problem, 6th edition, Prentice-Hall.
