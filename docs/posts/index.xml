@@ -11,8 +11,18 @@
     </image>
     <generator>Hugo -- 0.141.0</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 27 Jan 2025 14:39:33 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 05 Feb 2025 12:51:20 -0500</lastBuildDate>
     <atom:link href="https://smog.ink/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>uncertainty relations</title>
+      <link>https://smog.ink/posts/uncertainty-relations/</link>
+      <pubDate>Wed, 05 Feb 2025 12:51:20 -0500</pubDate>
+      <guid>https://smog.ink/posts/uncertainty-relations/</guid>
+      <description>&lt;p&gt;my biggest goal this semester is to know the physics I&amp;rsquo;m learning well, and one of the steps is to cement my understanding of important tools, procedures, and results. i&amp;rsquo;m also working on an 8.20 (sr) post but that&amp;rsquo;s second priority to 8.04/5 review for 8.06 this semester.&lt;/p&gt;
+&lt;h1 id=&#34;general-uncertainty-principle&#34;&gt;general uncertainty principle&lt;/h1&gt;
+&lt;h2 id=&#34;schwarz-inequality&#34;&gt;schwarz inequality&lt;/h2&gt;
+&lt;p&gt;An important inequality you must know is the Schwarz inequality&amp;ndash;$\langle a, a \rangle \langle b, b \rangle \geq |\langle a, b \rangle|^2$. Here we are using our complex inner product, which can yield complex values. In order to derive the inequality, first write $a = cb + a_\perp$, splitting $a$ into a part parallel to $b$ and a part perpendicular to $b$. In order for this to work, $c = \frac{\langle a, b\rangle}{\langle b,b\rangle}$. Think of it as taking the dot product of $a$ with the $\hat b$ direction. We can verify that $\langle a_\perp, b\rangle = \langle a - cb, b \rangle = \langle a,b \rangle - c \langle b,b \rangle = \langle a, b \rangle - \langle a, b \rangle = 0$ as desired. Then $\langle a,a\rangle \langle b,b \rangle = \langle cb + a_\perp, cb + a_\perp \rangle \langle b,b \rangle = (|c|^2 \langle b,b \rangle + |a_\perp|^2)\langle b,b \rangle = |c|^2|b|^2 + |a_\perp|^2|b|^2 = |\langle a,b, \rangle|^2 + |a_\perp|^2|b|^2 \geq |\langle a,b, \rangle|^2$ as desired.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Diffeq</title>
       <link>https://smog.ink/posts/diffeq/</link>

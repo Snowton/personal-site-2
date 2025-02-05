@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/observation.md",
+                "file": "posts/uncertainty-relations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "observation"
+              "title": "uncertainty-relations"
             }
           },
           {
@@ -229,12 +229,16 @@
   },
   "active": "7d66ec86f0200de1",
   "lastOpenFiles": [
-    "posts/diffeq.md",
-    "posts/first-post.md",
-    "posts/observation.md",
+    "posts/uncertainty-relations.md",
+    "posts/special-relativity.md",
     "posts/structuring-thoughts.md",
     "posts/outwards-facing-writing.md",
     "posts/pitch-detection.md",
+    "posts/so-you-want-to-make-a-website.md",
+    "uncertaint.md",
+    "posts/diffeq.md",
+    "posts/observation.md",
+    "posts/first-post.md",
     "posts/barbenheimer.md",
     "posts/update-6-2.md",
     "posts/update-6-20.md",
@@ -247,12 +251,9 @@
     "posts/update-10-2.md",
     "posts/update-11-26.md",
     "posts/update-12-14.md",
-    "posts/so-you-want-to-make-a-website.md",
     "about.md",
     "posts/_index.md",
     "posts/getting-new-comp.md",
-    "posts/Untitled.md",
-    "2023-07-25.md",
-    "posts/barbenhe.md"
+    "posts/Untitled.md"
   ]
 }
